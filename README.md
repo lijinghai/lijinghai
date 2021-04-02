@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning and sharing on [my blog](https://dorian1015.github.io/ ) 
+- 🌱 I’m currently learning and sharing on [my blog](https://dorian1015.github.io/) 
 
 - 📫 How to reach me: lijinghailjh@163.com
 
