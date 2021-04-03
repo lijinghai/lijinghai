@@ -7,7 +7,8 @@
 **Dorian1015/Dorian1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
+- 🤔 I’m looking for help with better and better
+
 - 👯 I’m looking to collaborate on ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
@@ -19,8 +20,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: lijinghailjh@163.com
 
-- 🤔 I’m looking for help with better and better
-
+- 🔭 I’m currently working on Java Vue MySQL and so on 
 
 
 
