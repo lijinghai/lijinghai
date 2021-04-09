@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats.git">
-  <img align="right" name="Dorian1015's github stats" src="https://github-readme-stats.vercel.app/api?username=Dorian1015&show_icons=true" />
+  <img align="right" name="Dorian1015的功勋章" src="https://github-readme-stats.vercel.app/api?username=Dorian1015&show_icons=true" />
 </a>
 
 ### Hi there 👋I'mDorian
@@ -8,6 +8,8 @@
 
 - [Dorian1015|个人博客](https://dorian1015.github.io/)
 - Dorian1015|个人邮箱： lijinghailjh@163.com
+- 我校食堂干饭第一人
+- 定一个小目标：争取早日成为Java全栈工程师
 
 <!--
 **Dorian1015/Dorian1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
