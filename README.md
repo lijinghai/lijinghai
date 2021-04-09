@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 经常整的活：
 
-
+![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-macOS-0078D6?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
