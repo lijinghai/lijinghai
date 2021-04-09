@@ -38,13 +38,13 @@ Here are some ideas to get you started:
 
 经常整的活：
 
-![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
+
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-macOS-0078D6?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/-Github-green?style=flat-square&logo=Github&logoColor=fff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gongsir0630&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorian1015&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 来了就给个Star✨✨吧👇
 
