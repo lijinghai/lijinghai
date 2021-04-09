@@ -1,6 +1,6 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats.git">
-  <img align="right" name="Dorian1015's github stats" src="https://github-readme-stats.vercel.app/api?username=gongsir0630&show_icons=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Dorian1015&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> 
 </a>
 ### Hi there 👋
 
