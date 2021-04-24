@@ -2,7 +2,7 @@
   <img align="right" name="Dorian1015的功勋章 " src="https://github-readme-stats.vercel.app/api?username=Dorian1015&show_icons=true" />
 </a>
 
-### Hi there 👋I'mDorian
+### 你好呀 👋我是Dorian
 
 你好！(。・∀・)ノ这里是我的GitHub个人主页。
 
