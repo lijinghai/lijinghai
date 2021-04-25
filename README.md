@@ -1,3 +1,4 @@
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 <a href="https://github.com/anuraghazra/github-readme-stats.git">
   <img align="right" name="Dorian1015的功勋章 " src="https://github-readme-stats.vercel.app/api?username=Dorian1015&show_icons=true" />
 </a>
