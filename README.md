@@ -9,7 +9,7 @@
 
 - [Dorian1015|个人博客](https://dorian1015.github.io/)
 - Dorian1015|个人邮箱： lijinghailjh@163.com
-- [我的个人简历](https://dorian1015.github.io/2021/05/08/jian-li/)
+- [我的个人简历](https://dorian1015.github.io/me/)
 - 在读大二学生（2021 4.25）
 - 我校食堂干饭第一人
 - 定一个小目标：争取早日成为Java全栈工程师
