@@ -68,10 +68,10 @@ Here are some ideas to get you started:
 
 <br/>
 
-|              这是我的微信，如果有需求可以联系我              |                                                              |
-| :----------------------------------------------------------: | ------------------------------------------------------------ |
-| <img src="https://cdn.jsdelivr.net/gh/Dorian1015/cdn/img/me/微信二维码.jpg" style="zoom:200%;" /> | <img src="https://cdn.jsdelivr.net/gh/Dorian1015/cdn/img/me/微信.jpg" style="zoom: 25%;" /> |
-|         这是我的邮箱是 lijinghailjh@163.com 欢迎指点         |                                                              |
+|              这是我的微信，如果有需求可以联系我              |                           ੭ ᐕ)੭*⁾⁾                           |                          ╰(*´︶`*)╯                          |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src="https://cdn.jsdelivr.net/gh/Dorian1015/cdn/img/me/微信二维码.jpg" style="zoom:200%;" /> | <img src="https://cdn.jsdelivr.net/gh/Dorian1015/cdn/img/me/微信.jpg" style="zoom: 25%;" /> | <img src="https://cdn.jsdelivr.net/gh/Dorian1015/cdn/img/me/支付宝.jpg" style="zoom: 25%;" /> |
+|         这是我的邮箱是 lijinghailjh@163.com 欢迎指点         |                                                              |                                                              |
 
 
 
