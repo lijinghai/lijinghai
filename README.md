@@ -68,12 +68,11 @@ Here are some ideas to get you started:
 
 <br/>
 
-| 我的微信                                                     |                                                              |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="https://cdn.jsdelivr.net/gh/Dorian1015/cdn/img/me/微信二维码.jpg" style="zoom:200%;" /> | <img src="https://cdn.jsdelivr.net/gh/Dorian1015/cdn/img/me/微信.png" style="zoom:33%;" /> | <img src="https://cdn.jsdelivr.net/gh/Dorian1015/cdn/img/me/支付宝.jpg" style="zoom:33%;" /> |
 | 这是我的微信，如果有需求可以联系我                           |                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="https://cdn.jsdelivr.net/gh/Dorian1015/cdn/img/me/微信二维码.jpg" style="zoom:200%;" /> | <img src="https://cdn.jsdelivr.net/gh/Dorian1015/cdn/img/me/微信.jpg" style="zoom: 50%;" /> | <img src="https://cdn.jsdelivr.net/gh/Dorian1015/cdn/img/me/支付宝.jpg" style="zoom: 50%;" /> |
+| 这是我的邮箱是 lijinghailjh@163.com 欢迎指点                 |                                                              |                                                              |
 
 
 
 <p align="center"><image src="https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=dorian1015.dorian1015.readme" alt="这是访问量计数，如果看不到请刷新" />
-
