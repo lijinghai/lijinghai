@@ -58,6 +58,8 @@ Here are some ideas to get you started:
 
 来了就给个Star✨✨吧👇
 
+<!--
+
 <br/>
 <br/>
 
@@ -72,6 +74,8 @@ Here are some ideas to get you started:
 [![WarmSearch-web](https://github-readme-stats.vercel.app/api/pin/?username=Dorian1015&repo=WarmSearch-web)](https://github.com/Dorian1015/WarmSearch-Web)
 
 <br/>
+
+-->
 
 |               这是我大二（2021年5月8日）完成的               |        校园失物招领网站（PC端、后台管理系统、移动端)         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
