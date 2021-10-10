@@ -51,6 +51,11 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorian1015&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+|                         最常用的语言                         |              这是我的微信，如果有需求可以联系我              |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorian1015&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | <img src="https://cdn.jsdelivr.net/gh/Dorian1015/cdn/img/me/微信二维码.jpg" style="zoom: 50%;" /> |
+|                                                              |         这是我的邮箱是 lijinghailjh@163.com 欢迎指点         |
+
 来了就给个Star✨✨吧👇
 
 <br/>
@@ -76,4 +81,3 @@ Here are some ideas to get you started:
 
 
 <p align="center"><image src="https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=dorian1015.dorian1015.readme" alt="这是访问量计数，如果看不到请刷新" />
-
