@@ -8,11 +8,24 @@
 你好！(。・∀・)ノ这里是我的GitHub个人主页。
 
 - 🤔[Dorian1015|个人博客](https://dorian1015.github.io/)
+
 - 📫Dorian1015|个人邮箱： lijinghailjh@163.com
+
 - 😄[我的个人简历](https://dorian1015.github.io/me/)
+
 - ⚡在读大二学生（2021 4.25）
+
 - 🌱我校食堂干饭第一人
+
 - 🔭定一个小目标：争取早日成为Java全栈工程师
+
+  | Hi there 👋 I'm Dorian15                                      |                                                              |
+  | ------------------------------------------------------------ | ------------------------------------------------------------ |
+  | 🤔[Dorian1015\|个人博客](https://dorian1015.github.io/)<br />📫Dorian1015\|个人邮箱： lijinghailjh@163.com <br />😄[我的个人简历](https://dorian1015.github.io/me/) <br />⚡在读大二学生（2021 4.25）<br /> 🌱我校食堂干饭第一人 <br />🔭定一个小目标：争取早日成为Java全栈工程师 | <a href="https://github.com/anuraghazra/github-readme-stats.git"></a>  <img align="right" name="Dorian1015的功勋章 " src="https://github-readme-stats.vercel.app/api?username=Dorian1015&show_icons=true" /> |
+
+  
+
+
 
 <!--
 **Dorian1015/Dorian1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -57,7 +70,7 @@ Here are some ideas to get you started:
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorian1015&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | <img src="https://cdn.jsdelivr.net/gh/Dorian1015/cdn/img/me/微信二维码.jpg" style="zoom: 50%;" /> |
 |                                                              |         这是我的邮箱是 lijinghailjh@163.com 欢迎指点         |
 
-来了就给个Star✨✨吧👇
+> 来了就给个Star✨✨吧👇
 
 <!--
 
