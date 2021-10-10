@@ -15,6 +15,8 @@
 - 🔭定一个小目标：争取早日成为Java全栈工程师
 
 
+
+<!--
 **Dorian1015/Dorian1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -35,7 +37,7 @@ Here are some ideas to get you started:
 
 - - 💬 Ask me about ...
 
-    
+    -->
 
 | :star:喜欢钻研新的知识、技术，同时热爱开源、创作、分享:star: |
 | ------------------------------------------------------------ |
