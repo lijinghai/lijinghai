@@ -49,7 +49,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/-Github-green?style=flat-square&logo=Github&logoColor=fff)
 
+<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorian1015&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
 
 |                         最常用的语言                         |              这是我的微信，如果有需求可以联系我              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
