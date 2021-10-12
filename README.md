@@ -1,7 +1,9 @@
 <p align="center"><a href="https://dorian1015.github.io/"><img src="https://cdn.jsdelivr.net/gh/Dorian1015/cdn/img/github/咸鱼哥.jpg" /></a></p>
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats.git">
   <img align="right" name="Dorian1015的功勋章 " src="https://github-readme-stats.vercel.app/api?username=Dorian1015&show_icons=true" />
-</a>:pray:
+</a>
 
 ### Hi there 👋 I'm Dorian15:running:
 
@@ -88,5 +90,5 @@ Here are some ideas to get you started:
 
 
 
-<p align="center"><image src="https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=dorian1015.dorian1015.readme" alt="这是访问量计数，如果看不到请刷新" />
+:chart_with_upwards_trend:<p align="center"><image src="https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=dorian1015.dorian1015.readme" alt="这是访问量计数，如果看不到请刷新" />:pray:
 
