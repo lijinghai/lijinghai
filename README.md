@@ -1,16 +1,16 @@
 <p align="center"><a href="https://dorian1015.github.io/"><img src="https://cdn.jsdelivr.net/gh/Dorian1015/cdn/img/github/咸鱼哥.jpg" /></a></p>
 <a href="https://github.com/anuraghazra/github-readme-stats.git">
   <img align="right" name="Dorian1015的功勋章 " src="https://github-readme-stats.vercel.app/api?username=Dorian1015&show_icons=true" />
-</a>
+</a>:pray:
 
-### Hi there 👋 I'm Dorian15
+### Hi there 👋 I'm Dorian15:running:
 
-你好！(。・∀・)ノ这里是我的GitHub个人主页。
+:ok_woman:你好！(。・∀・)ノ这里是我的GitHub个人主页。:boom:
 
 - 🤔[Dorian1015|个人博客](https://dorian1015.github.io/)
 - 📫Dorian1015|个人邮箱： lijinghailjh@163.com
 - 😄[我的个人简历](https://dorian1015.github.io/me/)
-- ⚡在读大二学生（2021 4.25）
+- :whale2:在读大二学生（2021 4.25）
 - 🌱我校食堂干饭第一人
 - 🔭定一个小目标：争取早日成为Java全栈工程师
 
@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 |                        ⚡最常用的语言                         |             🤔这是我的微信，如果有需求可以联系我              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorian1015&layout=compact)](https://github.com/anuraghazra/github-readme-stats) | <img src="https://cdn.jsdelivr.net/gh/Dorian1015/cdn/img/me/微信二维码.jpg" style="zoom: 50%;" /> |
-|                     励志成为全栈工程师✨                      |         这是我的邮箱是 lijinghailjh@163.com 欢迎指点         |
+|             :thought_balloon:励志成为全栈工程师✨             | :speech_balloon:这是我的邮箱是 lijinghailjh@163.com 欢迎指点 |
 
-> 来了就给个Star✨✨吧👇
+> :ocean:来了就给个Star✨✨吧👇
 
 <!--
 
@@ -80,12 +80,13 @@ Here are some ideas to get you started:
 
 -->
 
-|               这是我大二（2021年5月8日）完成的               |        校园失物招领网站（PC端、后台管理系统、移动端)         |
+|  :triangular_flag_on_post:这是我大二（2021年5月8日）完成的   |  :alarm_clock:校园失物招领网站（PC端、后台管理系统、移动端)  |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [![WarmSearch](https://github-readme-stats.vercel.app/api/pin/?username=Dorian1015&repo=WarmSearch)](https://github.com/Dorian1015/WarmSearch) | [![WarmSearch-pc](https://github-readme-stats.vercel.app/api/pin/?username=Dorian1015&repo=WarmSearch-pc)](https://github.com/Dorian1015/WarmSearch-PC) |
 | [![WarmSearch-uniapp](https://github-readme-stats.vercel.app/api/pin/?username=Dorian1015&repo=WarmSearch-uniapp)](https://github.com/Dorian1015/WarmSearch-uniapp) | [![WarmSearch-web](https://github-readme-stats.vercel.app/api/pin/?username=Dorian1015&repo=WarmSearch-web)](https://github.com/Dorian1015/WarmSearch-Web) |
-|             jdk1.8 + Maven + Node.js + Mysql 5.7             |        Springboot 2.4.2 + mybatis + Vue 2.0 + Uniapp         |
+|       :bicyclist:jdk1.8 + Maven + Node.js + Mysql 5.7        |    :dolphin:Springboot 2.4.2 + mybatis + Vue 2.0 + Uniapp    |
 
 
 
 <p align="center"><image src="https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=dorian1015.dorian1015.readme" alt="这是访问量计数，如果看不到请刷新" />
+
