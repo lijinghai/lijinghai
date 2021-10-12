@@ -57,9 +57,8 @@ Here are some ideas to get you started:
 
 -->
 
-| ![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff) | ![](https://img.shields.io/badge/-vue-0078D6?style=flat-square&logo=V&logoColor=fff) | ![](https://img.shields.io/badge/-uniapp-ec7314?style=flat-square&logo=uniapp&logoColor=fff) |                           :rocket:                           |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff) | ![](https://img.shields.io/badge/-Docker-09E8CEFF?style=flat-square&logo=Docker) | ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows) | ![](https://img.shields.io/badge/-macOS-0078D6?style=flat-square&logo=Apple) |
+| ![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff) | ![](https://img.shields.io/badge/-vue-0078D6?style=flat-square&logo=V&logoColor=fff) | ![](https://img.shields.io/badge/-uniapp-ec7314?style=flat-square&logo=uniapp&logoColor=fff) | ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff) | ![](https://img.shields.io/badge/-Docker-09E8CEFF?style=flat-square&logo=Docker) | ![](https://img.shields.io/badge/-macOS-0078D6?style=flat-square&logo=Apple) | ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows) | ![](https://img.shields.io/badge/-Github-green?style=flat-square&logo=Github&logoColor=fff) |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 <!--
 
