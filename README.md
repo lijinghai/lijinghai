@@ -44,11 +44,22 @@ Here are some ideas to get you started:
 | :star:喜欢钻研新的知识、技术，同时热爱开源、创作、分享:star: |
 | ------------------------------------------------------------ |
 
+<!--
+
 ![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
+![](https://img.shields.io/badge/-vue-0078D6?style=flat-square&logo=V&logoColor=fff)
+![](https://img.shields.io/badge/-uniapp-ec7314?style=flat-square&logo=u&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-macOS-0078D6?style=flat-square&logo=Apple)
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/-Github-green?style=flat-square&logo=Github&logoColor=fff)
+![](https://img.shields.io/badge/-Docker-09E8CEFF?style=flat-square&logo=Docker)
+
+-->
+
+| ![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff) | ![](https://img.shields.io/badge/-vue-0078D6?style=flat-square&logo=V&logoColor=fff) | ![](https://img.shields.io/badge/-uniapp-ec7314?style=flat-square&logo=uniapp&logoColor=fff) |                           :rocket:                           |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff) | ![](https://img.shields.io/badge/-Docker-09E8CEFF?style=flat-square&logo=Docker) | ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows) | ![](https://img.shields.io/badge/-macOS-0078D6?style=flat-square&logo=Apple) |
 
 <!--
 
@@ -90,5 +101,5 @@ Here are some ideas to get you started:
 
 
 
-:chart_with_upwards_trend:<p align="center"><image src="https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=dorian1015.dorian1015.readme" alt="这是访问量计数，如果看不到请刷新" />:pray:
+<p align="center"><image src="https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=dorian1015.dorian1015.readme" alt="这是访问量计数，如果看不到请刷新" />
 
