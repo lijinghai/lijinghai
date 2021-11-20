@@ -2,7 +2,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats.git">
-  <img align="right" name="何逢君的功勋章 " src="https://github-readme-stats.vercel.app/api?username=何逢君&show_icons=true" />
+  <img align="right" name="何逢君的功勋章 " src="https://github-readme-stats.vercel.app/api?username=lijinghailjh&show_icons=true" />
 </a>
 
 ### Hi there 👋 I'm 何逢君:running:
