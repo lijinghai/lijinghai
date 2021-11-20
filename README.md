@@ -1,4 +1,4 @@
-<p align="center"><a href="https://dorian1015.github.io/"><img src="https://cdn.jsdelivr.net/gh/Dorian1015/cdn/img/github/咸鱼哥.jpg" /></a></p>
+<p align="center"><a href="https://lijinghailjh.github.io/"><img src="https://cdn.jsdelivr.net/gh/Dorian1015/cdn/img/github/咸鱼哥.jpg" /></a></p>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats.git">
@@ -9,9 +9,9 @@
 
 :ok_woman:你好！(。・∀・)ノ这里是我的GitHub个人主页。:boom:
 
-- 🤔[何逢君|个人博客](https://dorian1015.github.io/)
+- 🤔[何逢君|个人博客](https://lijinghailjh.github.io/)
 - 📫何逢君|个人邮箱： lijinghailjh@163.com
-- 😄[我的个人简历](https://dorian1015.github.io/me/)
+- 😄[我的个人简历](https://lijinghailjh.github.io/me/)
 - :whale2:在读大二学生（2021 4.25）
 - 🌱我校食堂干饭第一人
 - 🔭定一个小目标：争取早日成为Java全栈工程师
