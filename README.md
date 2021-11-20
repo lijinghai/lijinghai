@@ -5,12 +5,12 @@
   <img align="right" name="Dorian1015的功勋章 " src="https://github-readme-stats.vercel.app/api?username=Dorian1015&show_icons=true" />
 </a>
 
-### Hi there 👋 I'm Dorian15:running:
+### Hi there 👋 I'm 何逢君:running:
 
 :ok_woman:你好！(。・∀・)ノ这里是我的GitHub个人主页。:boom:
 
-- 🤔[Dorian1015|个人博客](https://dorian1015.github.io/)
-- 📫Dorian1015|个人邮箱： lijinghailjh@163.com
+- 🤔[何逢君|个人博客](https://dorian1015.github.io/)
+- 📫何逢君|个人邮箱： lijinghailjh@163.com
 - 😄[我的个人简历](https://dorian1015.github.io/me/)
 - :whale2:在读大二学生（2021 4.25）
 - 🌱我校食堂干饭第一人
