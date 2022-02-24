@@ -9,8 +9,8 @@
 
 :ok_woman:你好！(。・∀・)ノ这里是我的GitHub个人主页。:boom:
 
-- 🤔[何逢君|个人博客](https://lijinghailjh.github.io/)
-- 📫何逢君|个人邮箱： lijinghailjh@163.com
+- 🤔[lijinghai|个人博客](https://lijinghailjh.github.io/)
+- 📫lijinghai|个人邮箱： lijinghailjh@163.com
 - 😄[我的个人简历](https://lijinghailjh.github.io/me/)
 - :whale2:在读大二学生（2021 4.25）
 - 🌱我校食堂干饭第一人
