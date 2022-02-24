@@ -2,10 +2,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats.git">
-  <img align="right" name="何逢君的功勋章 " src="https://github-readme-stats.vercel.app/api?username=lijinghailjh&show_icons=true" />
+  <img align="right" name="lijingahai的功勋章 " src="https://github-readme-stats.vercel.app/api?username=lijinghailjh&show_icons=true" />
 </a>
 
-### Hi there 👋 I'm 何逢君:running:
+### Hi there 👋 I'm lijinghai:running:
 
 :ok_woman:你好！(。・∀・)ノ这里是我的GitHub个人主页。:boom:
 
