@@ -1,4 +1,4 @@
-<p align="center"><a href="https://lijinghailjh.github.io/"><img src="https://cdn.jsdelivr.net/gh/lijinghailjh/cdn/img/github/咸鱼哥1.png" /></a></p>
+<p align="center"><a href="https://lijinghailjh.github.io/"><img src="https://cdn.jsdelivr.net/gh/lijinghailjh/cdn/img/github/咸鱼哥2.jpg" /></a></p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats.git">
   <img align="right" name="lijingahai的功勋章 " src="https://github-readme-stats.vercel.app/api?username=lijinghailjh&show_icons=true" />
