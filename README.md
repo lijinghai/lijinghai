@@ -79,6 +79,12 @@ Here are some ideas to get you started:
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lijinghailjh&layout=compact&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats) | <img src="https://cdn.jsdelivr.net/gh/lijinghailjh/cdn/img/me/微信二维码.jpg" style="zoom: 50%;" /> |
 |             :thought_balloon:励志成为全栈工程师✨             | :speech_balloon:这是我的邮箱是 lijinghailjh@163.com 欢迎指点 |
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lijinghailjh/lijinghailjh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lijinghailjh/lijinghailjh/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lijinghailjh/lijinghailjh/output/github-contribution-grid-snake.svg">
+</picture>
+
 > :ocean:来了就给个Star✨✨吧👇
 
 <!--
