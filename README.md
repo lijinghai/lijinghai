@@ -3,12 +3,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats.git">
   <img align="right" name="lijingahai的功勋章 " src="https://github-readme-stats.vercel.app/api?username=lijinghailjh&show_icons=true&theme=gruvbox" />
 </a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lijinghailjh/lijinghailjh/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lijinghailjh/lijinghailjh/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lijinghailjh/lijinghailjh/output/github-contribution-grid-snake.svg">
-</picture>
-
 ### Hi there 👋 I'm lijinghai:running:
 
 :ok_woman:你好！(。・∀・)ノ这里是我的GitHub个人主页。:boom:
