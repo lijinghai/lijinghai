@@ -14,12 +14,6 @@
 - 🌱我校食堂干饭第一人
 - 🔭定一个小目标：争取早日成为Java全栈工程师 -> 人工智能全栈工程师
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lijinghailjh/lijinghailjh/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lijinghailjh/lijinghailjh/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lijinghailjh/lijinghailjh/output/github-contribution-grid-snake.svg">
-</picture>
-
 <!--
 **Dorian1015/Dorian1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -45,7 +39,11 @@ Here are some ideas to get you started:
 
 | :star:喜欢钻研新的知识、技术，同时热爱开源、创作、分享:star: |
 | ------------------------------------------------------------ |
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lijinghailjh/lijinghailjh/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lijinghailjh/lijinghailjh/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lijinghailjh/lijinghailjh/output/github-contribution-grid-snake.svg">
+</picture>
 <!--
 
 ![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
