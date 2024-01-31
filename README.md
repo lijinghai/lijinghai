@@ -8,7 +8,7 @@
 
 :ok_woman:你好！(。・∀・)ノ这里是我的GitHub个人主页。:boom:
 
-- 🤔[lijinghai|个人博客](https://lijinghai.github.io/)
+- 🤔[lijinghai|个人博客](https://blog.csdn.net/Dorian15)
 - 📫lijinghai|个人邮箱： lijinghailjh@163.com
 - 😄[我的个人简历](https://lijinghai.github.io/me/)
 - :whale2:在读大三学生（2022 9.25）
