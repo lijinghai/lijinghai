@@ -4,7 +4,7 @@
   <img align="right" name="lijingahai的功勋章 " src="https://github-readme-stats.vercel.app/api?username=lijinghai&show_icons=true&theme=gruvbox" />
 </a>
 
-### Hi there 👋 I'm lijinghai:running:
+### Hi there 👋 I'm lijinghai🏃
 
 :ok_woman:你好！(。・∀・)ノ这里是我的GitHub个人主页。:boom:
 
