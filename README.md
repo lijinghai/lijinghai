@@ -24,6 +24,8 @@
 - 🌱我校食堂干饭第一人
 - 🔭定一个小目标：争取早日成为Java全栈工程师 -> 人工智能全栈工程师
 - 🤯 Java是干饭的家伙，嵌入式是爱好，机器学习是顺手
+- 🧖‍♂️ 也是一个念旧的人。
+
 
 <!--
 **Dorian1015/Dorian1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
