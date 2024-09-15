@@ -157,36 +157,27 @@
 
 > :ocean:来了就给个Star✨✨吧👇
 
-
-
-|  :triangular_flag_on_post:这是我大二（2021年5月8日）完成的   |  :alarm_clock:校园失物招领网站（PC端、后台管理系统、移动端)  |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [![WarmSearch](https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch&theme=gruvbox)](https://github.com/lijinghai/WarmSearch) | [![WarmSearch-pc](https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch-pc&theme=tokyonight)](https://github.com/lijinghai/WarmSearch-PC) |
-| [![WarmSearch-uniapp](https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch-uniapp&theme=calm)](https://github.com/lijinghai/WarmSearch-uniapp) | [![WarmSearch-web](https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch-web&theme=vue-dark)](https://github.com/lijinghai/WarmSearch-Web) |
-|       :bicyclist:jdk1.8 + Maven + Node.js + Mysql 5.7        |    :dolphin:Springboot 2.4.2 + mybatis + Vue 2.0 + Uniapp    |
-
-
 <!-- second form 第二个表格 -->
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijinghai&layout=compact&theme=slateorange" alt="languages.indepth" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/github-metrics/reactions.svg" alt="reactions" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+    <td> :triangular_flag_on_post:这是我大二（2021年5月8日）完成的 </td>
+    <td> :alarm_clock:校园失物招领网站（PC端、后台管理系统、移动端) </td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch&theme=gruvbox" alt="followup.indepth" /></td>
+       <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch-pc&theme=tokyonight" alt="wakatime" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch-uniapp&theme=calm" alt="repositories.pinned" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch-web&theme=vue-dark" alt="habits.charts" /></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
+    <td> :bicyclist:jdk1.8 + Maven + Node.js + Mysql 5.7 </td>
+    <td>:dolphin:Springboot 2.4.2 + mybatis + Vue 2.0 + Uniapp </td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/github-metrics/stars.svg" alt="stars" /></td>
