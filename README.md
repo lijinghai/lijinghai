@@ -1,4 +1,4 @@
-<p align="center"><a href="https://lijinghai.github.io/"><front size="3" color=red font-style="oblique">清澈爱只为中国</front></a></p>
+<p align="center"><a href="https://lijinghai.github.io/"><front size="3" color=red >清澈爱只为中国</front></a></p>
 
 <p align="center"><a href="https://lijinghai.github.io/"><img src="https://cdn.jsdelivr.net/gh/lijinghai/cdn/img/github/咸鱼哥2.jpg" /></a></p>
 
