@@ -155,13 +155,22 @@
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/github.webp">
 
 
-> :ocean:来了就给个Star✨✨吧👇
 
 <!-- second form 第二个表格 -->
 <table>
   <tr>
+    <td>ocean:来了就给个Star✨✨吧👇</td>
+  </tr>
+  <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijinghai&layout=compact&theme=slateorange" alt="languages.indepth" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/github-metrics/reactions.svg" alt="reactions" /></td>
+  </tr>
+    <tr>
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=lijinghai&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=lijinghai&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%232aeeff)">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=lijinghai&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
+</picture>
   </tr>
   <tr>
     <td> :triangular_flag_on_post:这是我大二（2021年5月8日）完成的 </td>
