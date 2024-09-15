@@ -1,4 +1,4 @@
-# <p color="red" align="center"><front style="color:red; face:微软雅黑 size:3;">清澈爱只为中国</front></a></p>
+# <p style="color: red;" align="center"><front style="color:red; face:微软雅黑 size:3;">清澈爱只为中国</front></a></p>
 
 
 <p align="center"><a href="https://lijinghai.github.io/"><img src="https://cdn.jsdelivr.net/gh/lijinghai/cdn/img/github/咸鱼哥2.jpg" /></a></p>
