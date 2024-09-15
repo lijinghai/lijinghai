@@ -173,11 +173,23 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch&theme=gruvbox" alt="followup.indepth" />
       </a>
       </td>
-       <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch-pc&theme=tokyonight" alt="wakatime" /></td>
+       <td>
+         <a href="https://github.com/lijinghai/WarmSearch-PC">
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch-pc&theme=tokyonight" alt="wakatime" />
+         </a>
+         </td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch-uniapp&theme=calm" alt="repositories.pinned" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch-web&theme=vue-dark" alt="habits.charts" /></td>
+    <td>
+      <a href="https://github.com/lijinghai/WarmSearch-uniapp">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch-uniapp&theme=calm" alt="repositories.pinned" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/lijinghai/WarmSearch-Web">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch-web&theme=vue-dark" alt="habits.charts" />
+      </a>
+    </td>
   </tr>
   <tr>
     <td> :bicyclist:jdk1.8 + Maven + Node.js + Mysql 5.7 </td>
