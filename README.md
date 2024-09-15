@@ -1,17 +1,44 @@
+<div align="center">
 
-<p align="center"><a href="https://lijinghai.github.io/"><img src="https://cdn.jsdelivr.net/gh/lijinghai/cdn/img/github/咸鱼哥2.jpg" /></a></p>
+  <!-- dynamic typing effect 动态打字效果 -->
+   <div>
+    <h1 align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Merriweather Sans&weight=500&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=清澈的爱只为中国！"> 
+    </h1>
+   </div>
+
+  <div align="center">
+    <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lijinghai&theme=dark&hide_border=true" />
+    <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+  </div>
+
+  <!-- GitHub 奖杯🏆 -->
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=lijinghai&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+    <br/>
+  </div>
+
+  <!-- GitHub 数据统计 -->
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lijinghai&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lijinghai&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br>
 
 
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lijinghai/lijinghai/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lijinghai/lijinghai/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lijinghai/lijinghai/output/github-contribution-grid-snake.svg">
+</picture>
 <picture decoding="async" loading="lazy">
   <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=lijinghai&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
   <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=lijinghai&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%232aeeff)">
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=lijinghai&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
 </picture>
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats.git">
   <img align="right" name="lijingahai的功勋章 " src="https://github-readme-stats.vercel.app/api?username=lijinghai&show_icons=true&theme=gruvbox" />
 </a>
+</div>
 
 
 ### Hi there 👋 I'm lijinghai🏃
@@ -27,48 +54,14 @@
 - 🤯 Java是干饭的家伙，嵌入式是爱好，机器学习是顺手
 - 🧖‍♂️ 也是一个念旧的人。
 
-
-<!--
-**Dorian1015/Dorian1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🤔 I’m looking for help with better and better
-
-- 👯 I’m looking to collaborate on ...
-
-- 😄 Pronouns: ...
-
-- ⚡ Fun fact: ...
-
-- 🌱 I’m currently learning and sharing on [my blog](https://dorian1015.github.io/) 
-
-- 📫 How to reach me: lijinghai@163.com
-
-- 🔭 I’m currently working on Java Vue MySQL and so on 
-
-- - 💬 Ask me about ...
-
-    -->
-
 | :star:喜欢钻研新的知识、技术，同时热爱开源、创作、分享:star: |
-| ------------------------------------------------------------ |
+| :----------------------------------------------------------: |
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lijinghai/lijinghai/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lijinghai/lijinghai/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lijinghai/lijinghai/output/github-contribution-grid-snake.svg">
 </picture>
-<!--
 
-![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
-![](https://img.shields.io/badge/-vue-0078D6?style=flat-square&logo=V&logoColor=fff)
-![](https://img.shields.io/badge/-uniapp-ec7314?style=flat-square&logo=u&logoColor=fff)
-![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
-![](https://img.shields.io/badge/-Docker-09E8CEFF?style=flat-square&logo=Docker)
-![](https://img.shields.io/badge/-macOS-0078D6?style=flat-square&logo=Apple)
-![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
-![](https://img.shields.io/badge/-Kubernetes-ab7221?style=flat-square&logo=Kubernetes&logoColor=fff)
--->
 
 ![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
 ![](https://img.shields.io/badge/-vue-0078D6?style=flat-square&logo=V&logoColor=fff)
@@ -82,11 +75,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
 ![](https://img.shields.io/badge/-Github-green?style=flat-square&logo=Github&logoColor=fff)
 
-<!--
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorian1015&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
--->
 
 |                        ⚡最常用的语言                         |             🤔这是我的微信，如果有需求可以联系我              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -95,24 +84,7 @@ Here are some ideas to get you started:
 
 > :ocean:来了就给个Star✨✨吧👇
 
-<!--
 
-<br/>
-<br/>
-
-[![WarmSearch](https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch)](https://github.com/lijinghai/WarmSearch)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![WarmSearch-pc](https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch-pc)](https://github.com/lijinghai/WarmSearch-PC)
-
-<br/>
-
-[![WarmSearch-uniapp](https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch-uniapp)](https://github.com/lijinghai/WarmSearch-uniapp)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![WarmSearch-web](https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch-web)](https://github.com/lijinghai/WarmSearch-Web)
-
-<br/>
-
--->
 
 |  :triangular_flag_on_post:这是我大二（2021年5月8日）完成的   |  :alarm_clock:校园失物招领网站（PC端、后台管理系统、移动端)  |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -122,8 +94,5 @@ Here are some ideas to get you started:
 
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/lijinghai/count.svg" alt="这是访问量计数，如果看不到请刷新" />
+  <img src="https://count.getloli.com/get/@:lijinghai?theme=gelbooru-h" alt="这是访问量计数，如果看不到请刷新" />
 </p>
-
-
