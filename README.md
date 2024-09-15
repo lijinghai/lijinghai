@@ -159,7 +159,7 @@
 <!-- second form 第二个表格 -->
 <table>
   <tr>
-    <td>ocean:来了就给个Star✨✨吧👇</td>
+    <td>:ocean:来了就给个Star✨✨吧👇</td>
   </tr>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijinghai&layout=compact&theme=slateorange" alt="languages.indepth" /></td>
