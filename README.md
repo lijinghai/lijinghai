@@ -168,7 +168,11 @@
     <td> :alarm_clock:校园失物招领网站（PC端、后台管理系统、移动端) </td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch&theme=gruvbox" alt="followup.indepth" /></td>
+    <td>
+      <a href="https://github.com/lijinghai/WarmSearch">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch&theme=gruvbox" alt="followup.indepth" />
+      </a>
+      </td>
        <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch-pc&theme=tokyonight" alt="wakatime" /></td>
   </tr>
   <tr>
