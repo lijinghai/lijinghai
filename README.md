@@ -1,5 +1,3 @@
-<p style="color: red;"  align="center"><front >清澈爱只为中国</front></a></p>
-
 
 <p align="center"><a href="https://lijinghai.github.io/"><img src="https://cdn.jsdelivr.net/gh/lijinghai/cdn/img/github/咸鱼哥2.jpg" /></a></p>
 
@@ -123,6 +121,9 @@ Here are some ideas to get you started:
 |       :bicyclist:jdk1.8 + Maven + Node.js + Mysql 5.7        |    :dolphin:Springboot 2.4.2 + mybatis + Vue 2.0 + Uniapp    |
 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="ttps://profile-counter.glitch.me/lijinghai/count.svg" alt="这是访问量计数，如果看不到请刷新" />
+</p>
 
-<p align="center"><image src="https://jwenjian-visitor-badge-5.glitch.me/badge?page_id=lijinghai.lijinghai.readme" alt="这是访问量计数，如果看不到请刷新" />
 
