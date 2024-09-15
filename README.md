@@ -123,7 +123,7 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   Visitor count<br>
-  <img src="ttps://profile-counter.glitch.me/lijinghai/count.svg" alt="这是访问量计数，如果看不到请刷新" />
+  <img src="https://profile-counter.glitch.me/lijinghai/count.svg" alt="这是访问量计数，如果看不到请刷新" />
 </p>
 
 
