@@ -30,19 +30,15 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lijinghai/lijinghai/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lijinghai/lijinghai/output/github-contribution-grid-snake.svg">
 </picture>
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=lijinghai&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=lijinghai&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%232aeeff)">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=lijinghai&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
-</picture>
-<a href="https://github.com/anuraghazra/github-readme-stats.git">
-  <img align="right" name="lijingahai的功勋章 " src="https://github-readme-stats.vercel.app/api?username=lijinghai&show_icons=true&theme=gruvbox" />
-</a>
+
 </div>
 
 
 ### Hi there 👋 I'm lijinghai🏃
-
+<table>
+  
+<tr><td>
+  <img align="right" width="300" src="https://cdn.jsdelivr.net/gh/lijinghai/cdn/img/me/微信二维码.jpg" />
 :ok_woman:你好！(。・∀・)ノ这里是我的GitHub个人主页。:boom:
 
 - 🤔[lijinghai|个人博客](https://blog.csdn.net/Dorian15)
@@ -54,26 +50,30 @@
 - 🤯 Java是干饭的家伙，嵌入式是爱好，机器学习是顺手
 - 🧖‍♂️ 也是一个念旧的人。
 
-| :star:喜欢钻研新的知识、技术，同时热爱开源、创作、分享:star: |
-| :----------------------------------------------------------: |
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lijinghai/lijinghai/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lijinghai/lijinghai/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lijinghai/lijinghai/output/github-contribution-grid-snake.svg">
-</picture>
+</td></tr>
+
+<tr><td>
+
+<tr><td>
+
+### 🤺 About Me
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+
+<p>&emsp;&emsp;嗨，你好，我是小孙同学。热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
+<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
+<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
+</td></tr>
+
+<tr><td>
+
+</td></tr>
+
+</table>
 
 
-![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
-![](https://img.shields.io/badge/-vue-0078D6?style=flat-square&logo=V&logoColor=fff)
-![](https://img.shields.io/badge/-uniapp-ec7314?style=flat-square&logo=u&logoColor=fff)
-![](https://img.shields.io/badge/-python-ec7314?style=flat-square&logo=python&logoColor=fff)
-![](https://img.shields.io/badge/-c++-ec7314?style=flat-square&logo=c&logoColor=fff)
-![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
-![](https://img.shields.io/badge/-Docker-09E8CEFF?style=flat-square&logo=Docker)
-![](https://img.shields.io/badge/-Kubernetes-ab7221?style=flat-square&logo=Kubernetes&logoColor=fff)
-![](https://img.shields.io/badge/-macOS-0078D6?style=flat-square&logo=Apple)
-![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
-![](https://img.shields.io/badge/-Github-green?style=flat-square&logo=Github&logoColor=fff)
 
 
 
