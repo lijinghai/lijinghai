@@ -1,12 +1,12 @@
-<div align="center">
+
 
   <!-- dynamic typing effect 动态打字效果 -->
    <div>
     <h1 align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Merriweather Sans&weight=500&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=清澈的爱只为中国！"> 
+      <img src="https://readme-typing-svg.demolab.com?font=Merriweather Sans&weight=300&size=50&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=清澈的爱只为中国！"> 
     </h1>
    </div>
-
+<div align="center">
   <div align="center">
     <img width="150" src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/left.png" />
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lijinghai&theme=dark&hide_border=true" />
