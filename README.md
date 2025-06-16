@@ -3,7 +3,8 @@
   <!-- dynamic typing effect 动态打字效果 -->
    <div>
     <h1 align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Merriweather Sans&weight=300&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=清澈的爱只为中国！"> 
+<!--       <img src="https://readme-typing-svg.demolab.com?font=Merriweather Sans&weight=300&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=清澈的爱只为中国！">  -->
+       <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/救赎之道.jpg"> 
     </h1>
    </div>
 <div align="center">
