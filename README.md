@@ -40,16 +40,18 @@
   
 <tr><td>
   <img align="right" width="260" src="https://cdn.jsdelivr.net/gh/lijinghai/cdn/img/me/微信二维码.jpg" />
-:ok_woman:你好！(。・∀・)ノ这里是我的GitHub个人主页。:boom:
-
-- 🤔[lijinghai|个人博客](https://blog.csdn.net/Dorian15)
-- 📫lijinghai|个人邮箱： lijinghailjh@163.com
-- 😄[我的个人简历](https://lijinghai.github.io/me/)
-- :whale2:在读大四学生（2023 9.25）
-- 🤯 Java是干饭的家伙，嵌入式是爱好，机器学习是顺手
-- 🔭定一个小目标：争取早日由Java全栈工程师 -> 嵌入式人工智能全栈工程师
-- 🌱我校食堂干饭第一人
-- 🧖‍♂️ 也是一个念旧的人。
+> [!important]
+>
+> :ok_woman:你好！(。・∀・)ノ这里是我的GitHub个人主页。:boom:
+>
+> - 🤔[lijinghai|个人博客](https://blog.csdn.net/Dorian15)
+> - 📫lijinghai|个人邮箱： lijinghailjh@163.com
+> - 😄[我的个人简历](https://lijinghai.github.io/me/)
+> - :whale2:在读大四学生（2023 9.25）
+> - 🤯 Java是干饭的家伙，嵌入式是爱好，机器学习是顺手
+> - 🔭定一个小目标：争取早日由Java全栈工程师 -> 嵌入式人工智能全栈工程师
+> - 🌱我校食堂干饭第一人
+> - 🧖‍♂️ 也是一个念旧的人。
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 </td></tr>
 <tr><td>
