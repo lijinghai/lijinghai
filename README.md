@@ -1,14 +1,3 @@
-
-
-  <!-- dynamic typing effect 动态打字效果 -->
-   <div>
-    <h1 align="center">
-      <a href="https://huggingface.co/lijinghai">
-<!--       <img src="https://readme-typing-svg.demolab.com?font=Merriweather Sans&weight=300&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=清澈的爱只为中国！">  -->
-       <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/救赎之道.jpg"> 
-      </a>
-    </h1>
-   </div>
 <div align="center">
   <div align="center">
     <img width="150" src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/left.png" />
@@ -71,6 +60,18 @@
 &emsp;未来，我希望继续深耕自动驾驶及智能机器人领域，发挥自身的技术专长和领导能力，推动智能交通技术的创新应用，同时保持对艺术与生活的热爱，成为技术与人文兼备的复合型人才。
 
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+
+
+  <!-- dynamic typing effect 动态打字效果 -->
+   <div>
+    <h1 align="center">
+      <a href="https://huggingface.co/lijinghai">
+<!--       <img src="https://readme-typing-svg.demolab.com?font=Merriweather Sans&weight=300&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=清澈的爱只为中国！">  -->
+       <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/救赎之道.jpg"> 
+      </a>
+    </h1>
+   </div>
+
 </td></tr>
 <tr><td>
 
