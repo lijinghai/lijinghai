@@ -37,12 +37,12 @@
 </div>
 
 
-### Hi there 👋 I'm lijinghai🏃
+<h1>Hi there 👋 I'm lijinghai🏃</h1>
 <table>
   
 <tr><td>
   <img align="right" width="260" src="https://cdn.jsdelivr.net/gh/lijinghai/cdn/img/me/微信二维码.jpg" />
-:ok_woman:你好！(。・∀・)ノ这里是我的GitHub个人主页。:boom:
+<h2>:ok_woman:你好！(。・∀・)ノ这里是我的GitHub个人主页。:boom:</h2>
 
 - 🤔[lijinghai|个人博客](https://blog.csdn.net/Dorian15)
 - 📫lijinghai|个人邮箱： lijinghailjh@163.com
