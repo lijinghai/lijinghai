@@ -106,7 +106,12 @@
 <table>
   <tr>
     <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
+<!--     <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td> -->
+    <td>  
+ 
+
+[![Star History Chart](https://api.star-history.com/svg?repos=lijinghai/WarmSearch,lijinghai/WarmSearch-uniapp,lijinghai/WarmSearch-PC,lijinghai/WarmSearch-Web&type=Timeline)](https://www.star-history.com/#lijinghai/WarmSearch&lijinghai/WarmSearch-uniapp&lijinghai/WarmSearch-PC&lijinghai/WarmSearch-Web&Timeline)
+    </td>
   </tr>
 </table>
 
