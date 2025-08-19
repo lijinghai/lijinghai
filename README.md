@@ -101,7 +101,9 @@
 <table>
   <tr>
     <td>
+      <a href="https://www.bilibili.com/video/BV1zkYsziExS/#reply115048936642785">
       <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/RabbitRobot1.0.jpg" width="700" height="700"> 
+      </a>
 <!--     <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>  -->
     <td>  
  
@@ -199,7 +201,7 @@
 </picture>
   </tr>
   <tr>
-    <td> :triangular_flag_on_post:这是我大二（2021年5月8日）完成的 </td>
+    <td> :triangular_flag_on_post:这是我大二完成的 </td>
     <td> :alarm_clock:校园失物招领网站（PC端、后台管理系统、移动端) </td>
   </tr>
   <tr>
