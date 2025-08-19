@@ -69,7 +69,7 @@
     <h1 align="center">
       <a href="https://huggingface.co/lijinghai">
 <!--       <img src="https://readme-typing-svg.demolab.com?font=Merriweather Sans&weight=300&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=清澈的爱只为中国！">  -->
-       <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/救赎之道.jpg"> 
+       <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/救赎之道.jpg" > 
       </a>
     </h1>
    </div>
@@ -83,12 +83,6 @@
 
 </table>
 
-<!-- metrics 基础资料 -->
-<!--
-<img width="150" src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/cxyduck.gif" />&emsp;
-<img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/github-metrics/base.svg" />
-&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/cxyduck.gif" />
--->
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table>
@@ -106,7 +100,8 @@
 <!-- Wakatime Graph-->
 <table>
   <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>?
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/RabbitRobot1.0.jpg" width="700" height="700"> 
 <!--     <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>  -->
     <td>  
  
