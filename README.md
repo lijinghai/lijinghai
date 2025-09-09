@@ -35,12 +35,12 @@
 
 - 🤔[lijinghai|个人博客](https://blog.csdn.net/Dorian15)
 - 📫lijinghai|个人邮箱： lijinghailjh@163.com
-- 😄[我的个人简历](https://lijinghai.github.io/me/)
 - :whale2:研0牛马（2025 7.1）
-- 🤯 Java是干饭的家伙，嵌入式是爱好，机器学习是顺手
-- 🔭定个小目标：争取早日由Java全栈工程师 ---> 嵌入式人工智能全栈工程师
+- 🤯 Java是干饭的家伙，嵌入式是爱好，机器学习是信仰
+- 🔭定个小目标：争取早日由Java全栈工程师 ----> 嵌入式人工智能全栈工程师
 - 🌱我校食堂干饭第一人
 - 🧖‍♂️ 也是一个念旧的人。
+- 🥴 INFJ
   
   <center style="
     color: #FF6600;
