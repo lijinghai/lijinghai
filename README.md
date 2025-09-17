@@ -41,7 +41,7 @@
 - 🌱我校食堂干饭第一人
 - 🧖‍♂️ 也是一个念旧的人。
 - 🥴 INFJ
-- 💕商务合作：RbbitRobot2025
+- 💕商务合作：RabbitRobot2025
   
   <center style="
     color: #FF6600;
