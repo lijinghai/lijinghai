@@ -56,7 +56,7 @@
 
 &emsp;同时，我精通Python和C++编程，熟悉机器视觉技术（如YOLO目标识别）及深度学习模型在边缘计算中的应用。对于传感器融合、UWB定位等多源信息融合技术也有深入理解和实践。
 
-&emsp;在软件系统开发方面，了解 Vue、Uniapp、Three.js 等前端框架，以及 SpringBoot、MySQL、Redis 等后端技术，熟悉 SpringCloud 微服务架构，能够在 Docker、Nginx 环境中实现前后端部署与管理。具备完整的软硬件融合与系统集成能力。
+&emsp;在软件系统开发方面，常用 Vue、Uniapp、Three.js 等前端框架，以及 SpringBoot、MySQL、Redis 等后端技术，熟悉 SpringCloud 微服务架构，能够在 Docker、Nginx 环境中实现前后端部署与管理。具备完整的软硬件融合与系统集成能力。
 
 &emsp;性格方面，我属于INFJ人格，内心敏感且富有洞察力，喜欢文艺与感性的事物，平时带有些许小忧伤。这使我在科研与团队管理中，能够兼顾理性与感情，注重团队成员间的沟通与协作，推动项目高效前进。
 
