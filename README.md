@@ -44,12 +44,18 @@
 - 💕商务合作：RabbitRobot2025
 - 🥴 INFJ
   
-  <center style="
-    color: #FF6600;
-    font-size: 230%;
-    font-weight: bold;">
-    <h1>算个文科生吧 — 个人简介</h1>
-</center>
+
+<h1 align="center">
+  算个文科生吧 ——— 个人简介
+</h1>
+
+<h3 align="center">
+  🐇 RabbitRobot 创始人🐇 
+</h3>
+
+<p align="center">
+  <img src="docs/demo.gif" width="600" alt="SLAM Demo"/>
+</p>
   
 &emsp;我是一名控制工程专业的硕士研究生，专注于自动驾驶技术的研究，具备扎实的计算机专业背景和丰富的实践经验。目前担任校实验室总负责人，带领团队多次荣获国家级奖项，包括多个国一、国二等奖，展现了出色的领导力和技术实力。
 
