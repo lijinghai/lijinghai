@@ -41,8 +41,8 @@
 - 🚓这是我自己手搓的ROS2小车[RabbitRobot_V1.0  (2025.9)](https://www.bilibili.com/video/BV1zkYsziExS/?spm_id_from=333.1387.list.card_archive.click)
 - 🌱我校食堂干饭第一人
 - 🧖‍♂️ 也是一个念旧的人。
-- 🥴 INFJ
 - 💕商务合作：RabbitRobot2025
+- 🥴 INFJ
   
   <center style="
     color: #FF6600;
