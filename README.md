@@ -31,7 +31,7 @@
   
 <tr><td>
   <img align="right"  src="https://cdn.jsdelivr.net/gh/lijinghai/cdn/img/me/微信二维码.jpg"  width="300" height="300" />
-<h2>:ok_woman:你好！(。・∀・)ノ这里是我的GitHub个人主页。:boom:</h2>
+<h2>:ok_woman:你好！(。・∀・)ノ这里是我的GitHub个人主页。</h2>
 
 - 🤔[lijinghai|个人博客](https://blog.csdn.net/Dorian15)
 - 📫lijinghai|个人邮箱： lijinghailjh@163.com
