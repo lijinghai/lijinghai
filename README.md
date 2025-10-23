@@ -53,7 +53,7 @@
   🐇 RabbitRobot 创始人🐇 
 </h2>
 <h3 align="center">
-  🌟 RabbitRobot 主页： https://gitee.com/RabbitRobotOpen 📡
+  🌟 RabbitRobot 主页： <a href="https://gitee.com/RabbitRobotOpen" target="_blank">https://gitee.com/RabbitRobotOpen</a> 📡 
 </h3>
 
 <p align="center">
