@@ -49,8 +49,11 @@
   算个文科生吧 ——— 个人简介
 </h1>
 
-<h3 align="center">
+<h2 align="center">
   🐇 RabbitRobot 创始人🐇 
+</h2>
+<h3 align="center">
+  🌟 RabbitRobot 主页： https://gitee.com/RabbitRobotOpen 📡
 </h3>
 
 <p align="center">
