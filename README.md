@@ -135,7 +135,7 @@
 
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
-<table>
+<!-- <table>
   <tr>
     <td>
       <picture>
@@ -144,7 +144,7 @@
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=lijinghai&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture>
   </tr>
-</table>
+</table> -->
 
 
 <!-- Wakatime Graph-->
@@ -223,67 +223,56 @@
 <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
 
 <!-- gif -->
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/html.webp">
+<!-- <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/html.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/cssgif.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/vscode.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/react.webp">
 <img height="95" width="95" src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/vue.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/python.webp">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/js.webp">
-<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/github.webp">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/github.webp"> -->
+
+---
+
+<h2 align="center">🧠 技术栈 | Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,ros,qt,docker,vue,react,spring,linux,nginx,mysql,git,threejs" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lijinghai&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<h2 align="center">📊 活跃统计 | GitHub Insights</h2>
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lijinghai&theme=onestar&no-frame=true&row=1&column=7" />
+</p> -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lijinghai&theme=react-dark&bg_color=0D1117&color=58A6FF&hide_border=true" />
+</p>
 
 
+---
 
-<!-- second form 第二个表格 -->
-<table>
-  <tr>
-    <td>:ocean:来了就给个Star✨✨吧👇</td>
-  </tr>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lijinghai&layout=compact&theme=slateorange" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-    <tr>
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=lijinghai&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=lijinghai&screen_effect=true&background=linear-gradient(to%20bottom%20right%2C%20%235580eb%2C%20%232aeeff)">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=lijinghai&screen_effect=false&background=linear-gradient(to%20bottom%20right%2C%20%2374dcc4%2C%20%234597e9)">
-</picture>
-  </tr>
-  <tr>
-    <td> :triangular_flag_on_post:这是我大二完成的 </td>
-    <td> :alarm_clock:校园失物招领网站（PC端、后台管理系统、移动端) </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/lijinghai/WarmSearch">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch&theme=gruvbox" alt="followup.indepth" />
-      </a>
-      </td>
-       <td>
-         <a href="https://github.com/lijinghai/WarmSearch-PC">
-         <img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch-pc&theme=tokyonight" alt="wakatime" />
-         </a>
-         </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/lijinghai/WarmSearch-uniapp">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch-uniapp&theme=calm" alt="repositories.pinned" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/lijinghai/WarmSearch-Web">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch-web&theme=vue-dark" alt="habits.charts" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td> :bicyclist:jdk1.8 + Maven + Node.js + Mysql 5.7 </td>
-    <td>:dolphin:Springboot 2.4.2 + mybatis + Vue 2.0 + Uniapp </td>
-  </tr>
-
+<h2 align="center">🌟 代表作品</h2>
+<table align="center">
+<tr>
+  <td align="center">
+    <a href="https://github.com/lijinghai/WarmSearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch&theme=vue-dark" /></a>
+  </td>
+  <td align="center">
+    <a href="https://github.com/lijinghai/WarmSearch-uniapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch-uniapp&theme=vue-dark" /></a>
+  </td>
+</tr>
+<tr>
+  <td colspan="2" align="center"><b>SpringBoot + Vue + UniApp 校园失物招领系统</b></td>
+</tr>
 </table>
+
+---
+
 
 <!--
 <img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
