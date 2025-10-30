@@ -26,7 +26,7 @@
 </div>
 
 
-<h1>Hi there 👋 I'm lijinghai🏃</h1>
+<!-- <h1>Hi there 👋 I'm lijinghai🏃</h1>
 <table>
   
 <tr><td>
@@ -43,7 +43,46 @@
 - 🌱 校园称号：食堂干饭第一人 🍱  
 - 💌 lijinghailjh@163.com  
 - 💕 商务合作 / 项目交流：RabbitRobot2025  
-- 🧖‍♂️ INFJ，一个有点念旧的技术宅。
+- 🧖‍♂️ INFJ，一个有点念旧的技术宅。 -->
+
+
+<h1>Hi there 👋 I'm lijinghai🏃</h1>
+
+<table>
+<tr>
+  <!-- 左侧文字 -->
+  <td style="vertical-align: top;">
+
+  <h2>🙆‍♀️ 你好！(。・∀・)ノ 这里是我的 GitHub 个人主页</h2>
+
+  - 🧠 研0牛马一枚（2025.7 入坑）  
+  - 🤔 <a href="https://blog.csdn.net/Dorian15" target="_blank">lijinghai | 个人博客</a>  
+  - 💻 Java 是我的饭碗，嵌入式是兴趣，机器学习是信仰  
+  - 🛠️ 目标：由 Java 全栈工程师 → 嵌入式 AI 全栈工程师  
+  - 🚗 最近在折腾 ROS2 小车 —— <a href="https://www.bilibili.com/video/BV1zkYsziExS/?spm_id_from=333.1387.list.card_archive.click" target="_blank"><i>RabbitRobot_V1.0</i>（2025.9）</a>  
+  - 🌱 校园称号：食堂干饭第一人 🍱  
+  - 💌 <b>邮箱：</b> lijinghailjh@163.com  
+  - 💕 <b style="color:#e91e63;">商务合作 / 项目交流：</b> <code>RabbitRobot2025</code>  
+  - 🧖‍♂️ INFJ，一个有点念旧的技术宅。
+
+  </td>
+
+  <!-- 右侧二维码：卡片样式 -->
+  <td style="vertical-align: middle; text-align: center;">
+
+  <div style="display:inline-block; padding:18px 22px; border-radius:16px; box-shadow:0 4px 12px rgba(0,0,0,0.15); background:linear-gradient(145deg,#ffffff,#f1f1f1);">
+    <h3 style="margin-top:0; font-size:16px; color:#444;">📱 微信扫码 · 技术交流</h3>
+    <img src="https://cdn.jsdelivr.net/gh/lijinghai/cdn/img/me/微信二维码.jpg" 
+         alt="WeChat QR" 
+         width="240" height="240" 
+         style="border-radius:12px; border:2px solid #e0e0e0;"/>
+    <div style="font-size:12px; color:#777; margin-top:6px;">RabbitRobot2025</div>
+  </div>
+
+  </td>
+</tr>
+</table>
+
 
   
 
