@@ -33,16 +33,18 @@
   <img align="right"  src="https://cdn.jsdelivr.net/gh/lijinghai/cdn/img/me/微信二维码.jpg"  width="300" height="300" />
 <h2>:ok_woman:你好！(。・∀・)ノ这里是我的GitHub个人主页。</h2>
 
+
+
+- 🧠 研0牛马一枚（2025.7 入坑）  
 - 🤔[lijinghai|个人博客](https://blog.csdn.net/Dorian15)
-- 📫lijinghai|个人邮箱： lijinghailjh@163.com
-- :whale2:研0牛马（2025 7.1）
-- 🤯 Java是干饭的家伙，嵌入式是爱好，机器学习是信仰
-- 🔭定个小目标：争取早日由Java全栈工程师 --> 嵌入式人工智能全栈工程师
-- 🚓这是我自己手搓的ROS2小车[RabbitRobot_V1.0  (2025.9)](https://www.bilibili.com/video/BV1zkYsziExS/?spm_id_from=333.1387.list.card_archive.click)
-- 🌱我校食堂干饭第一人
-- 🧖‍♂️ 也是一个念旧的人。
-- 💕商务合作：RabbitRobot2025
-- 🥴 INFJ
+- 💻 Java 是我的饭碗，嵌入式是兴趣，机器学习是信仰。  
+- 🛠️ 目标：由 Java 全栈工程师 → 嵌入式 AI 全栈工程师  
+- 🚗 最近在折腾 ROS2 小车 —— [*RabbitRobot_V1.0*（2025.9）](https://www.bilibili.com/video/BV1zkYsziExS/?spm_id_from=333.1387.list.card_archive.click)  
+- 🌱 校园称号：食堂干饭第一人 🍱  
+- 💌 lijinghailjh@163.com  
+- 💕 商务合作 / 项目交流：RabbitRobot2025  
+- 🧖‍♂️ INFJ，一个有点念旧的技术宅。
+
   
 
 <h1 align="center">
