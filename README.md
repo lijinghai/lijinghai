@@ -76,7 +76,7 @@
          alt="WeChat QR" 
          width="240" height="240" 
          style="border-radius:12px; border:2px solid #e0e0e0;"/>
-    <div style="font-size:12px; color:#777; margin-top:6px;">RabbitRobot2025</div>
+    <!-- <div style="font-size:12px; color:#777; margin-top:6px;">RabbitRobot2025</div> -->
   </div>
 
   </td>
