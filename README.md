@@ -147,21 +147,7 @@
 </table> -->
 
 
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td>
-      <a href="https://www.bilibili.com/video/BV1zkYsziExS/#reply115048936642785">
-      <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/RabbitRobot1.0.jpg" width="700" height="700"> 
-      </a>
-<!--     <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>  -->
-    <td>  
- 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=lijinghai/WarmSearch,lijinghai/WarmSearch-uniapp,lijinghai/WarmSearch-PC,lijinghai/WarmSearch-Web&type=Timeline)](https://www.star-history.com/#lijinghai/WarmSearch&lijinghai/WarmSearch-uniapp&lijinghai/WarmSearch-PC&lijinghai/WarmSearch-Web&Timeline)
-    </td>
-  </tr>
-</table>
 
 
 <!-- ########################################## 分割 ########################################## -->
@@ -239,20 +225,9 @@
   <img src="https://skillicons.dev/icons?i=java,python,cpp,ros,qt,docker,vue,react,spring,linux,nginx,mysql,git,threejs" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lijinghai&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<h2 align="center">📊 活跃统计 | GitHub Insights</h2>
 <!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lijinghai&theme=onestar&no-frame=true&row=1&column=7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lijinghai&theme=tokyonight&hide_border=true" />
 </p> -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lijinghai&theme=react-dark&bg_color=0D1117&color=58A6FF&hide_border=true" />
-</p>
-
 
 ---
 
@@ -271,7 +246,20 @@
 </tr>
 </table>
 
+
 ---
+
+<h2 align="center">📊 活跃统计 | GitHub Insights</h2>
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lijinghai&theme=onestar&no-frame=true&row=1&column=7" />
+</p> -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lijinghai&theme=react-dark&bg_color=0D1117&color=58A6FF&hide_border=true" />
+</p>
+
+
+---
+
 
 
 <!--
@@ -279,8 +267,23 @@
 -->
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/icon.png" /></div>
-</div>
+<!-- <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/icon.png" /></div>
+</div> -->
+<!-- Wakatime Graph-->
+<table>
+  <tr>
+    <td>
+      <a href="https://www.bilibili.com/video/BV1zkYsziExS/#reply115048936642785">
+      <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/RabbitRobot1.0.jpg" width="700" height="700"> 
+      </a>
+<!--     <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>  -->
+    <td>  
+ 
+
+[![Star History Chart](https://api.star-history.com/svg?repos=lijinghai/WarmSearch,lijinghai/WarmSearch-uniapp,lijinghai/WarmSearch-PC,lijinghai/WarmSearch-Web&type=Timeline)](https://www.star-history.com/#lijinghai/WarmSearch&lijinghai/WarmSearch-uniapp&lijinghai/WarmSearch-PC&lijinghai/WarmSearch-Web&Timeline)
+    </td>
+  </tr>
+</table>
 
 
 <p align="center"> 
