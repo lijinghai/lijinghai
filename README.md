@@ -46,20 +46,24 @@
 - 🧖‍♂️ INFJ，一个有点念旧的技术宅。 -->
 
 
-<h1>Hi there 👋 I'm lijinghai🏃</h1>
+<h1 align="center" style="color:#00eaff; font-size:40px; font-weight:800; text-shadow:0 0 15px #00ffff;">
+  👋 Hi, I'm <span style="color:#aafaff;">lijinghai</span> 🏃
+</h1>
 
-<table style="width:100%; border-collapse:collapse;">
+<div align="center" style="width:100vw; margin-left:calc(-50vw + 50%); background:transparent;">
+
+<table style="width:95%; max-width:1400px; border-collapse:collapse; margin:auto;">
 <tr>
   <!-- 左侧文字 -->
-  <td style="width:50%; vertical-align:top; padding:20px;">
+  <td style="width:50%; vertical-align:top; padding:25px;">
 
-  <h2>🙆‍♀️ 你好！(。・∀・)ノ 这里是我的 GitHub 个人主页</h2>
+  <h2 style="color:#00ffff;">🙆‍♀️ 你好！(。・∀・)ノ 这里是我的 GitHub 个人主页</h2>
 
   - 🧠 研0牛马一枚（2025.7 入坑）  
-  - 🤔 <a href="https://blog.csdn.net/Dorian15" target="_blank">lijinghai | 个人博客</a>  
-  - 💻 Java 是我的饭碗，嵌入式是兴趣，机器学习是信仰  
+  - 🤔 <a href="https://blog.csdn.net/Dorian15" target="_blank" style="color:#00ffff;">lijinghai | 个人博客</a>  
+  - 💻 Java 是饭碗，嵌入式是兴趣，机器学习是信仰  
   - 🛠️ 目标：由 Java 全栈工程师 → 嵌入式 AI 全栈工程师  
-  - 🚗 最近在折腾 ROS2 小车 —— <a href="https://www.bilibili.com/video/BV1zkYsziExS/?spm_id_from=333.1387.list.card_archive.click" target="_blank"><i>RabbitRobot_V1.0</i>（2025.9）</a>  
+  - 🚗 最近在折腾 ROS2 小车 —— <a href="https://www.bilibili.com/video/BV1zkYsziExS/?spm_id_from=333.1387.list.card_archive.click" target="_blank" style="color:#00ffff;"><i>RabbitRobot_V1.0</i>（2025.9）</a>  
   - 🌱 校园称号：食堂干饭第一人 🍱  
   - 💌 <b>邮箱：</b> lijinghailjh@163.com  
   - 💕 <b style="color:#e91e63;">商务合作 / 项目交流：</b> <code>RabbitRobot2025</code>  
@@ -68,7 +72,7 @@
   </td>
 
   <!-- 右侧二维码卡片 -->
-  <td style="width:50%; vertical-align:middle; text-align:center; padding:20px;">
+  <td style="width:50%; vertical-align:middle; text-align:center; padding:25px;">
 
   <div style="display:inline-block; padding:18px 22px; border-radius:20px;
               background:radial-gradient(circle at 30% 30%, #0ff3, #000c);
@@ -85,6 +89,9 @@
   </td>
 </tr>
 </table>
+
+</div>
+
 
 
 <!-- ===== 🌌 霓虹夜光 Banner（科技感主视觉） ===== -->
@@ -104,7 +111,7 @@
     text-shadow:0 0 20px #00ffff, 0 0 40px #0088ff;
     margin-bottom: 10px;
   ">
-    🤖 lijinghai · RabbitRobot Developer
+    🤖 lijinghai · RabbitRobot Developer 
   </h1>
 
   <p style="
@@ -126,8 +133,11 @@
     “让算法跑在车轮上，让创意落在电路板上。”
   </p>
 
-  <div style="margin-top:25px;">
-    <a href="https://gitee.com/RabbitRobotOpen" target="_blank" 
+</div>
+
+<!-- ===== 🌠 署名区 ===== -->
+<h2 align="center" style="color:#00eaff; text-shadow:0 0 8px #00ffff88;">
+   <a href="https://gitee.com/RabbitRobotOpen" target="_blank" 
        style="background:linear-gradient(90deg,#00ffff33,#00ccff66);
               border:1px solid #00eaff55;
               color:#00ffff;
@@ -137,15 +147,8 @@
               font-weight:600;
               box-shadow:0 0 12px #00ffff55;
               transition:0.3s;">
-      🐇 RabbitRobot 官方主页 📡
+      💫 RabbitRobot 官方主页 💫
     </a>
-  </div>
-
-</div>
-
-<!-- ===== 🌠 署名区 ===== -->
-<h2 align="center" style="color:#00eaff; text-shadow:0 0 8px #00ffff88;">
-  💫 RabbitRobot 创始人 · lijinghai 💫
 </h2>
 
 
