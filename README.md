@@ -194,13 +194,32 @@
 </tr>
 </table>
 
+<table align="center">
+<tr>
+  <td align="center" style="padding:12px;">
+    <a href="https://github.com/lijinghai/RabbitRobot-D435-L1lidar-RTABMap-ROS2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=RabbitRobot-D435-L1lidar-RTABMap-ROS2&theme=vue-dark&border_color=00eaff&title_color=00ffff&icon_color=00ffff" />
+    </a>
+  </td>
+  <td align="center" style="padding:12px;">
+    <a href="https://github.com/lijinghai/RabbitRobot-JetsonOrinSuper_MPU6050-ROS2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=RabbitRobot-JetsonOrinSuper_MPU6050-ROS2&theme=vue-dark&border_color=00eaff&title_color=00ffff&icon_color=00ffff" />
+    </a>
+  </td>
+</tr>
+
+<tr>
+  <td colspan="2" align="center">
+    <b style="font-size:16px; color:#00ffff;">RabbitRobot 开源自动驾驶平台 🧠</b><br>
+    <span style="color:#66ffff;">LiDAR · RTAB-Map · Jetson · ROS 2 | 科研级开源项目</span>
+  </td>
+</tr>
+</table>
+
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <h2 align="center">📊 活跃统计 | GitHub Insights</h2>
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lijinghai&theme=onestar&no-frame=true&row=1&column=7" />
-</p> -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lijinghai&theme=react-dark&bg_color=0D1117&color=58A6FF&hide_border=true" />
 </p>
@@ -210,13 +229,6 @@
 
 
 
-<!--
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
--->
-
-<!-- just img 图片 -->
-<!-- <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/icon.png" /></div>
-</div> -->
 <!-- Wakatime Graph-->
 <table>
   <tr>
@@ -224,7 +236,6 @@
       <a href="https://www.bilibili.com/video/BV1zkYsziExS/#reply115048936642785">
       <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/RabbitRobot1.0.jpg" width="700" height="700"> 
       </a>
-<!--     <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>  -->
     <td>  
  
 
