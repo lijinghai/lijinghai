@@ -48,10 +48,10 @@
 
 <h1>Hi there 👋 I'm lijinghai🏃</h1>
 
-<table>
+<table style="width:100%; border-collapse:collapse;">
 <tr>
   <!-- 左侧文字 -->
-  <td style="vertical-align: top;">
+  <td style="width:50%; vertical-align:top; padding:20px;">
 
   <h2>🙆‍♀️ 你好！(。・∀・)ノ 这里是我的 GitHub 个人主页</h2>
 
@@ -67,24 +67,25 @@
 
   </td>
 
-  <!-- 右侧二维码：卡片样式 -->
-  <td style="vertical-align: middle; text-align: center;">
+  <!-- 右侧二维码卡片 -->
+  <td style="width:50%; vertical-align:middle; text-align:center; padding:20px;">
 
-  <div style="display:inline-block; padding:18px 22px; border-radius:16px; box-shadow:0 4px 12px rgba(0,0,0,0.15); background:linear-gradient(145deg,#ffffff,#f1f1f1);">
-    <h3 style="margin-top:0; font-size:16px; color:#444;">📱 微信扫码 · 技术交流</h3>
+  <div style="display:inline-block; padding:18px 22px; border-radius:20px;
+              background:radial-gradient(circle at 30% 30%, #0ff3, #000c);
+              box-shadow:0 0 25px #00ffff55, 0 0 60px #00ccff22;
+              border:1px solid #00e5ff33;">
+    <h3 style="margin-top:0; font-size:16px; color:#00ffff;">📱 微信扫码 · 技术交流</h3>
     <img src="https://cdn.jsdelivr.net/gh/lijinghai/cdn/img/me/微信二维码.jpg" 
-         alt="WeChat QR" 
-         width="240" height="240" 
-         style="border-radius:12px; border:2px solid #e0e0e0;"/>
-    <!-- <div style="font-size:12px; color:#777; margin-top:6px;">RabbitRobot2025</div> -->
+         alt="WeChat QR"
+         width="240" height="240"
+         style="border-radius:14px; border:2px solid #00ffff88; box-shadow:0 0 20px #00ffff55;"/>
+    <div style="font-size:13px; color:#77ffff; margin-top:6px;">RabbitRobot2025</div>
   </div>
 
   </td>
 </tr>
 </table>
 
-
-  
 
 <h1 align="center">
   算个文科生吧 ——— 个人简介
