@@ -87,16 +87,67 @@
 </table>
 
 
-<h1 align="center">
-  算个文科生吧 ——— 个人简介
-</h1>
+<!-- ===== 🌌 霓虹夜光 Banner（科技感主视觉） ===== -->
+<div align="center" style="
+  padding: 48px 0;
+  background: radial-gradient(circle at 30% 40%, #00ffff22, #001020 80%);
+  border-radius: 20px;
+  box-shadow: 0 0 25px #00ffff55, inset 0 0 40px #00ffff22;
+  margin-bottom: 30px;
+">
 
-<h2 align="center">
-  🐇 RabbitRobot 创始人🐇 
+  <h1 style="
+    color:#00eaff;
+    font-size:46px;
+    font-weight:800;
+    letter-spacing:1px;
+    text-shadow:0 0 20px #00ffff, 0 0 40px #0088ff;
+    margin-bottom: 10px;
+  ">
+    🤖 lijinghai · RabbitRobot Developer
+  </h1>
+
+  <p style="
+    color:#aafaff;
+    font-size:18px;
+    margin: 8px 0 6px 0;
+    text-shadow:0 0 10px #00ffffaa;
+  ">
+    自动驾驶 🚗 · 嵌入式 ⚙️ · 人工智能 🧠 | 全栈工程师
+  </p>
+
+  <p style="
+    color:#66ffff;
+    font-size:14px;
+    font-style: italic;
+    margin-top: 6px;
+    text-shadow:0 0 6px #00ffff88;
+  ">
+    “让算法跑在车轮上，让创意落在电路板上。”
+  </p>
+
+  <div style="margin-top:25px;">
+    <a href="https://gitee.com/RabbitRobotOpen" target="_blank" 
+       style="background:linear-gradient(90deg,#00ffff33,#00ccff66);
+              border:1px solid #00eaff55;
+              color:#00ffff;
+              padding:8px 16px;
+              border-radius:10px;
+              text-decoration:none;
+              font-weight:600;
+              box-shadow:0 0 12px #00ffff55;
+              transition:0.3s;">
+      🐇 RabbitRobot 官方主页 📡
+    </a>
+  </div>
+
+</div>
+
+<!-- ===== 🌠 署名区 ===== -->
+<h2 align="center" style="color:#00eaff; text-shadow:0 0 8px #00ffff88;">
+  💫 RabbitRobot 创始人 · lijinghai 💫
 </h2>
-<h3 align="center">
-  🌟 RabbitRobot 主页： <a href="https://gitee.com/RabbitRobotOpen" target="_blank">https://gitee.com/RabbitRobotOpen</a> 📡 
-</h3>
+
 
 
   
@@ -119,7 +170,6 @@
    <div>
     <h1 align="center">
       <a href="https://huggingface.co/lijinghai">
-<!--       <img src="https://readme-typing-svg.demolab.com?font=Merriweather Sans&weight=300&size=40&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=清澈的爱只为中国！">  -->
        <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/救赎之道.jpg" > 
       </a>
     </h1>
@@ -133,20 +183,6 @@
 </td></tr>
 
 </table>
-
-
-<!-- GitHub Activity Graph GitHub 活动图 -->
-<!-- <table>
-  <tr>
-    <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lijinghai&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lijinghai&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=lijinghai&theme=xcode&bg_color=FF000000&hide_border=true" />
-      </picture>
-  </tr>
-</table> -->
-
 
 
 
