@@ -1,7 +1,7 @@
 <div align="center">
   <div align="center">
     <img width="150" src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/left.png" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lijinghai&theme=dark&hide_border=true" />
+    <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/RabbitRobot壁纸.jpg" width="200" height="200"> 
     <img width="150" src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/right.png" />
   </div>
 
