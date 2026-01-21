@@ -45,7 +45,7 @@
   - 🚗 最近在折腾 ROS2 小车 —— <a href="https://www.bilibili.com/video/BV1zkYsziExS/?spm_id_from=333.1387.list.card_archive.click" target="_blank" style="color:#00ffff;"><i>RabbitRobot_V1.0</i>（2025.9）</a>  
   - 🌱 校园称号：食堂干饭第一人 🍱  
   - 💌 <b>邮箱：</b> lijinghailjh@163.com  
-  - 💕 <b style="color:#e91e63;">商务合作 / 项目交流（WX)></path></svg>）：</b> <code>RabbitRobot2025</code>  
+  - 💕 <b style="color:#e91e63;">商务合作 / 项目交流（WX）：</b> <code>RabbitRobot2025</code>  
   - 🧖‍♂️ INFJ，一个有点念旧的技术宅。
 
   </td>
