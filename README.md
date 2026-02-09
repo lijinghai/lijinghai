@@ -13,7 +13,6 @@
   </div>
   -->
 
-
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lijinghai/lijinghai/output/github-contribution-grid-snake-dark.svg">
