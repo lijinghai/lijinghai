@@ -180,42 +180,53 @@
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <h2 align="center">🌟 代表作品</h2>
-<table align="center">
-<tr>
-  <td align="center">
-    <a href="https://github.com/lijinghai/WarmSearch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch&theme=vue-dark" /></a>
-  </td>
-  <td align="center">
-    <a href="https://github.com/lijinghai/WarmSearch-uniapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch-uniapp&theme=vue-dark" /></a>
-  </td>
-</tr>
-<tr>
-  <td colspan="2" align="center"><b>SpringBoot + Vue + UniApp 校园失物招领系统</b></td>
-</tr>
-</table>
 
-<table align="center">
-<tr>
-  <td align="center" style="padding:12px;">
-    <a href="https://github.com/lijinghai/RabbitRobot-D435-L1lidar-RTABMap-ROS2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=RabbitRobot-D435-L1lidar-RTABMap-ROS2&theme=vue-dark&border_color=00eaff&title_color=00ffff&icon_color=00ffff" />
-    </a>
-  </td>
-  <td align="center" style="padding:12px;">
-    <a href="https://github.com/lijinghai/RabbitRobot-JetsonOrinSuper_MPU6050-ROS2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=lijinghai&repo=RabbitRobot-JetsonOrinSuper_MPU6050-ROS2&theme=vue-dark&border_color=00eaff&title_color=00ffff&icon_color=00ffff" />
-    </a>
-  </td>
-</tr>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/lijinghai/WarmSearch">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch&theme=vue-dark&border_color=41b883&title_color=41b883&icon_color=41b883" alt="WarmSearch" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/lijinghai/WarmSearch-uniapp">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch-uniapp&theme=vue-dark&border_color=41b883&title_color=41b883&icon_color=41b883" alt="WarmSearch-uniapp" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <code><b>SpringBoot + Vue + UniApp 校园失物招领系统</b></code>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<tr>
-  <td colspan="2" align="center">
-    <b style="font-size:16px; color:#00ffff;">RabbitRobot 开源自动驾驶平台 🧠</b><br>
-    <span style="color:#66ffff;">LiDAR · RTAB-Map · Jetson · ROS 2 | 科研级开源项目</span>
-  </td>
-</tr>
-</table>
+<br />
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/lijinghai/RabbitRobot-D435-L1lidar-RTABMap-ROS2">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lijinghai&repo=RabbitRobot-D435-L1lidar-RTABMap-ROS2&theme=vue-dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" alt="RabbitRobot-1" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/lijinghai/RabbitRobot-JetsonOrinSuper_MPU6050-ROS2">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lijinghai&repo=RabbitRobot-JetsonOrinSuper_MPU6050-ROS2&theme=vue-dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" alt="RabbitRobot-2" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <code><b>RabbitRobot 开源自动驾驶平台 🧠</b></code><br />
+        <small><i>LiDAR · RTAB-Map · Jetson · ROS 2 | 科研级开源项目</i></small>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
