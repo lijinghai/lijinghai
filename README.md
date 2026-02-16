@@ -142,7 +142,7 @@
 
 &emsp;我精通 Python 与 C++ 编程语言，熟悉 YOLO 系列目标检测算法 与深度学习模型在边缘计算设备上的部署与优化，对 UWB 定位与多源信息融合 等方向也有深入的理解与实操经验。同时，在软件系统开发方面，熟练使用 Vue、Uniapp、Three.js 等前端框架，以及 SpringBoot、MySQL、Redis 等后端技术，掌握 SpringCloud 微服务架构，能够在 Docker、Nginx 环境下实现完整的前后端系统部署与维护，具备从硬件驱动到云端架构的全栈式开发能力。
 
-&emsp;性格方面，我属于 INFJ 型人格，敏感细腻、富有洞察力，兼具理性思维与人文关怀。在科研与团队管理中，我注重沟通与协作，能够在追求技术突破的同时，激发团队成员的潜能与创造力。
+&emsp;性格方面，我属于 ENFJ 型人格，敏感细腻、富有洞察力，兼具理性思维与人文关怀。在科研与团队管理中，我注重沟通与协作，能够在追求技术突破的同时，激发团队成员的潜能与创造力。
 
 &emsp;未来，我希望继续深耕自动驾驶与智能机器人领域，进一步探索多传感器融合与智能决策算法的结合，推动智能交通技术的创新应用。同时，我也希望保持对艺术与生活的热爱，成为兼具技术理性与人文温度的复合型科研人才。
 
@@ -243,6 +243,11 @@
 [![Star History Chart](https://api.star-history.com/svg?repos=lijinghai/WarmSearch,lijinghai/WarmSearch-uniapp,lijinghai/WarmSearch-PC,lijinghai/WarmSearch-Web&type=Timeline)](https://www.star-history.com/#lijinghai/WarmSearch&lijinghai/WarmSearch-uniapp&lijinghai/WarmSearch-PC&lijinghai/WarmSearch-Web&Timeline)
     </td>
   </tr>
+<td colspan="2" align="center">
+    <b style="color:#00ffff;">🚗 RabbitRobot初代小车 · 🔧 纯手搓 · ⭐ 纪念板</b>
+  <br />
+  <small style="color:#888;"><i>🤖 ROS 2 · 📡 多传感器融合 · 🧠 SLAM · ⚡ 自主导航</i></small>
+</td>
 </table>
 
 <h2 align="center">🧠 技术栈 | Tech Stack</h2>
