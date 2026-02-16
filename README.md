@@ -39,9 +39,9 @@
 
   <h2 style="color:#00ffff;">🙆‍♀️ 你好！(。・∀・)ノ 这里是我的 GitHub 个人主页</h2>
 
-  - 🧠 研0牛马一枚（2025.7 入坑）  
+  - 🧠 自动化控制工程研0牛马一枚（2025.7 入坑）
+  - 💻 研究方向：端到端自动驾驶（策略生成与优化）
   - 🤔 <a href="https://blog.csdn.net/Dorian15" target="_blank" style="color:#00ffff;">lijinghai | 个人博客</a>  
-  - 💻 Java 是饭碗，嵌入式是兴趣，机器学习是信仰  
   - 🛠️ 目标：由 Java 全栈工程师 → 嵌入式 AI 全栈工程师  
   - 🚗 最近在折腾 ROS2 小车 —— <a href="https://www.bilibili.com/video/BV1zkYsziExS/?spm_id_from=333.1387.list.card_archive.click" target="_blank" style="color:#00ffff;"><i>RabbitRobot_V1.0</i>（2025.9）</a>  
   - 🌱 校园称号：食堂干饭第一人 🍱  
