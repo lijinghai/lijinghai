@@ -169,16 +169,6 @@
 </table>
 
 
-
-<h2 align="center">🧠 技术栈 | Tech Stack</h2>
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,ros,qt,docker,vue,react,spring,linux,nginx,mysql,git,threejs" />
-</p>
-
-
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
 <h2 align="center">🌟 代表作品</h2>
 
 <div align="center">
@@ -255,6 +245,14 @@
   </tr>
 </table>
 
+<h2 align="center">🧠 技术栈 | Tech Stack</h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,ros,qt,docker,vue,react,spring,linux,nginx,mysql,git,threejs" />
+</p>
+
+
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <p align="center"> 
   <img src="https://count.getloli.com/get/@:lijinghai?theme=gelbooru-h" alt="这是访问量计数，如果看不到请刷新" />
