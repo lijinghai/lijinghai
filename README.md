@@ -43,11 +43,11 @@
   - 💻 研究方向：端到端自动驾驶（策略生成与优化）
   - 🛠️ 目标：Web、嵌入式 AI 全栈工程师 → 自动驾驶决策工程师   
   - 🚗 最近在折腾 ROS2 小车 —— <a href="https://www.bilibili.com/video/BV1zkYsziExS/?spm_id_from=333.1387.list.card_archive.click" target="_blank" style="color:#00ffff;"><i>RabbitRobot_V1.0</i>（2025.9）</a>
-  - 🤔 <a href="https://blog.csdn.net/Dorian15" target="_blank" style="color:#00ffff;">lijinghai | 个人博客</a>  
+  - 🤔 <a href="https://blog.csdn.net/Dorian15" target="_blank" style="color:#00ffff;">lijinghai | 个人博客</a>
+  - 💕 <b style="color:#e91e63;">商务合作 / 项目交流（WX）：</b> <code>RabbitRobot2025</code>  
   - 🌱 校园称号：食堂干饭第一人 🍱  
   - 💌 <b>邮箱：</b> lijinghailjh@163.com  
-  - 💕 <b style="color:#e91e63;">商务合作 / 项目交流（WX）：</b> <code>RabbitRobot2025</code>  
-  - 🧖‍♂️ INFJ，一个有点念旧的技术宅。
+  - 🧖‍♂️ ENFJ，一个有点念旧的技术宅。
 
   </td>
 
