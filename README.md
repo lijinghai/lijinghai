@@ -204,8 +204,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/lijinghai/RabbitRobot-JetsonOrinSuper_MPU6050-ROS2">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lijinghai&repo=RabbitRobot-JetsonOrinSuper_MPU6050-ROS2&theme=vue-dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" alt="RabbitRobot-2" />
+        <a href="https://github.com/lijinghai/ljh_robot_ros2_web">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lijinghai&repo=ljh_robot_ros2_web&theme=vue-dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" alt="RabbitRobot-2" />
         </a>
       </td>
     </tr>
