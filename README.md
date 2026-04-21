@@ -1,13 +1,13 @@
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
     <tr>
-      <td align="center" valign="middle">
+      <td align="center" valign="middle" style="border: none; padding: 0 8px;">
         <img width="150" src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/left.png" alt="left" />
       </td>
-      <td align="center" valign="middle">
+      <td align="center" valign="middle" style="border: none; padding: 0 8px;">
         <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/RabbitRobot壁纸.jpg" width="200" alt="RabbitRobot" />
       </td>
-      <td align="center" valign="middle">
+      <td align="center" valign="middle" style="border: none; padding: 0 8px;">
         <img width="150" src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/right.png" alt="right" />
       </td>
     </tr>
