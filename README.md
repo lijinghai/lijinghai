@@ -1,9 +1,15 @@
-  <div align="center">
+<div align="center">
   <table>
     <tr>
-      <td align="center" valign="middle"><img width="150" src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/left.png" alt="left" /></td>
-      <td align="center" valign="middle"><img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/RabbitRobot壁纸.jpg" width="200" height="200" alt="RabbitRobot" /></td>
-      <td align="center" valign="middle"><img width="150" src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/right.png" alt="right" /></td>
+      <td align="center" valign="middle">
+        <img width="150" src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/left.png" alt="left" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/RabbitRobot壁纸.jpg" width="200" alt="RabbitRobot" />
+      </td>
+      <td align="center" valign="middle">
+        <img width="150" src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/right.png" alt="right" />
+      </td>
     </tr>
   </table>
 </div>
