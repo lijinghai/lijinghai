@@ -244,7 +244,7 @@
   <tr>
     <td>
       <a href="https://www.bilibili.com/video/BV1zkYsziExS/#reply115048936642785">
-      <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/RabbitRobot1.0.jpg" width="700" height="700"> 
+      <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/RabbitRobot1.0.jpg" width="700" > 
       </a>
     <td>  
  
