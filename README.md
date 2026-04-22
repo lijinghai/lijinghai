@@ -1,3 +1,7 @@
+<h1 align="center" style="color:#00eaff; font-size:40px; font-weight:800; text-shadow:0 0 15px #00ffff;">
+  👋 努力，让世界听到RabbitRobot的声音 🏃
+  <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+</h1>
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
     <tr>
