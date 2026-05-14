@@ -60,6 +60,7 @@
   - 🤔 <a href="https://blog.csdn.net/Dorian15" target="_blank" style="color:#00ffff;">lijinghai | 个人博客</a>
   - 🌱 校园称号：食堂干饭第一人 🍱  
   - 💌 <b>邮箱：</b> lijinghailjh@163.com  
+  - 🌟RabbitRobot创始人🔥
   - 🧖‍♂️ ENFJ，一个有点念旧的技术宅。
 
   </td>
