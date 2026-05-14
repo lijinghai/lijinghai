@@ -52,6 +52,7 @@
 
   <h2 style="color:#00ffff;">🙆‍♀️ 你好！(。・∀・)ノ 这里是我的 GitHub 个人主页</h2>
 
+  - 🌟🌟 RabbitRobot创始人 🔥🔥
   - 🧠 自动化控制工程研0牛马一枚（2025.7 入坑）
   - 💻 研究方向：端到端自动驾驶（策略生成与优化）
   - 🛠️ 目标：Web、嵌入式 AI 全栈工程师 → 自动驾驶决策工程师   
@@ -60,7 +61,6 @@
   - 🤔 <a href="https://blog.csdn.net/Dorian15" target="_blank" style="color:#00ffff;">lijinghai | 个人博客</a>
   - 🌱 校园称号：食堂干饭第一人 🍱  
   - 💌 <b>邮箱：</b> lijinghailjh@163.com  
-  - 🌟RabbitRobot创始人🔥
   - 🧖‍♂️ ENFJ，一个有点念旧的技术宅。
 
   </td>
