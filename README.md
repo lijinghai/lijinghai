@@ -37,7 +37,7 @@
 
 
 <h1 align="center" style="color:#00eaff; font-size:40px; font-weight:800; text-shadow:0 0 15px #00ffff;">
-  👋 Hi, I'm <span style="color:#aafaff;">lijinghai</span> 🏃
+  👋 Hi, I'm lijinghai，勉勉强强 算个文科生吧。</span> 🏃
   <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 </h1>
 
