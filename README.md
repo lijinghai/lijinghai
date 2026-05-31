@@ -132,7 +132,7 @@
 
 <!-- ===== 🌠 署名区 ===== -->
 <h2 align="center" style="color:#00eaff; text-shadow:0 0 8px #00ffff88;">
-   <a href="https://gitee.com/RabbitRobotOpen" target="_blank" 
+   <a href="https://lijinghai.github.io/" target="_blank" 
        style="background:linear-gradient(90deg,#00ffff33,#00ccff66);
               border:1px solid #00eaff55;
               color:#00ffff;
@@ -144,6 +144,7 @@
               transition:0.3s;">
       💫 RabbitRobot 官方主页 💫
      <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+     https://lijinghai.github.io/
     </a>
 </h2>
 
