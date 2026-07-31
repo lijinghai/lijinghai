@@ -1,9 +1,5 @@
-<h1 align="center">🦾 努力，让世界听到 RabbitRobot 的声音 🤖</h1>
-
 <div align="center">
-  <img src="./assets/images/left.png" width="150" alt="left wing" />
-  <img src="./assets/images/RabbitRobot壁纸.jpg" width="200" alt="RabbitRobot logo" />
-  <img src="./assets/images/right.png" width="150" alt="right wing" />
+  <img src="./assets/images/rabbitrobot-vln-hero.png" alt="RabbitRobot2025 · VLN x Embodied AI x ROS 2 x Robot Web Tools" width="100%" />
 </div>
 
 <picture>
