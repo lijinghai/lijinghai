@@ -41,77 +41,62 @@
   <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 </h1>
 
-  
-  
-<div align="center" style="width:100vw; margin-left:calc(-50vw + 50%); background:transparent;">
+<div align="center">
 
-<table style="width:95%; max-width:1400px; border-collapse:collapse; margin:auto;">
-<tr>
-  <!-- 左侧文字 -->
-  <td style="width:50%; vertical-align:top; padding:25px;">
+  <h2>🙆‍♀️ 你好！(。・∀・)ノ 这里是我的 GitHub 个人主页</h2>
 
-  <h2 style="color:#00ffff;">🙆‍♀️ 你好！(。・∀・)ノ 这里是我的 GitHub 个人主页</h2>
+  <p>
+    <b>🌟 RabbitRobot 创始人</b> ·
+    <b>🧠 自动化控制工程研0</b> ·
+    <b>💻 端到端自动驾驶</b>
+  </p>
 
-  - 🌟🌟🌟 RabbitRobot创始人 🔥🔥🔥
-  - 🧠 自动化控制工程研0牛马一枚（2025.7 入坑）
-  - 💻 研究方向：端到端自动驾驶（策略生成与优化）
-  - 🛠️ 目标：Web、嵌入式 AI 全栈工程师 → 自动驾驶决策工程师   
-  - 🚗 最近在折腾 ROS2 小车 —— <a href="https://www.bilibili.com/video/BV1zkYsziExS/?spm_id_from=333.1387.list.card_archive.click" target="_blank" style="color:#00ffff;"><i>RabbitRobot_V1.0</i>（2025.9）</a>
-  - 💕 <b style="color:#e91e63;">商务合作 / 项目交流：</b> 小红书、B站、微信都可以找到我
-  - 📕 <b>小红书号：</b> <code>RabbitRobot2025</code>
-  - 📺 <b>B站：</b> <a href="https://space.bilibili.com/1339027047" target="_blank" style="color:#00ffff;"><code>UID: 1339027047</code></a>
-  - 💬 <b>微信：</b> 扫码添加好友
-  - 🤔 <a href="https://blog.csdn.net/Dorian15" target="_blank" style="color:#00ffff;">lijinghai | 个人博客</a>
-  - 🌱 校园称号：食堂干饭第一人 🍱  
-  - 💌 <b>邮箱：</b> lijinghailjh@163.com  
-  - 🧖‍♂️ ENFJ，一个有点念旧的技术宅。
+  <p>
+    Web / 嵌入式 AI 全栈工程师 → 自动驾驶决策工程师
+  </p>
 
-  </td>
+  <p>
+    <a href="https://www.bilibili.com/video/BV1zkYsziExS/?spm_id_from=333.1387.list.card_archive.click" target="_blank">
+      <img alt="RabbitRobot V1.0" src="https://img.shields.io/badge/RabbitRobot_V1.0-ROS2%20%E5%B0%8F%E8%BD%A6-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" />
+    </a>
+    <a href="https://blog.csdn.net/Dorian15" target="_blank">
+      <img alt="CSDN Blog" src="https://img.shields.io/badge/CSDN-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-FC5531?style=for-the-badge&logo=blogger&logoColor=white" />
+    </a>
+    <a href="mailto:lijinghailjh@163.com">
+      <img alt="Email" src="https://img.shields.io/badge/Email-lijinghailjh%40163.com-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
 
-  <!-- 右侧二维码卡片 -->
-  <td style="width:50%; vertical-align:middle; text-align:center; padding:25px;">
+  <p>
+    💕 <b>商务合作 / 项目交流：</b> 小红书、B站、微信都可以找到我<br/>
+    🌱 校园称号：食堂干饭第一人 🍱 · 🧖‍♂️ ENFJ，一个有点念旧的技术宅。
+  </p>
 
-  <div style="display:inline-block; padding:18px 22px; border-radius:20px;
-              background:radial-gradient(circle at 30% 30%, #0ff3, #000c);
-              box-shadow:0 0 25px #00ffff55, 0 0 60px #00ccff22;
-              border:1px solid #00e5ff33;">
-    <h3 style="margin-top:0; font-size:16px; color:#00ffff;">📬 找到我 · Social QR</h3>
-    <table border="0" cellspacing="0" cellpadding="8" style="border-collapse:collapse; border:none;">
-      <tr>
-        <td align="center" style="border:none;">
-          <b>小红书</b><br/>
-          <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/social-xiaohongshu.png"
-               alt="小红书二维码"
-               width="125" height="125"
-               style="border-radius:12px; border:2px solid #ff5a7a88; box-shadow:0 0 16px #ff5a7a55;"/><br/>
-          <code>RabbitRobot2025</code>
-        </td>
-        <td align="center" style="border:none;">
-          <b>B站</b><br/>
-          <a href="https://space.bilibili.com/1339027047" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/social-bilibili.png"
-                 alt="B站二维码"
-                 width="125" height="125"
-                 style="border-radius:12px; border:2px solid #00a1d688; box-shadow:0 0 16px #00a1d655;"/>
-          </a><br/>
-          <code>UID: 1339027047</code>
-        </td>
-        <td align="center" style="border:none;">
-          <b>微信</b><br/>
-          <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/social-wechat.png"
-               alt="微信二维码"
-               width="125" height="125"
-               style="border-radius:12px; border:2px solid #07c16088; box-shadow:0 0 16px #07c16055;"/><br/>
-          <code>扫码添加</code>
-        </td>
-      </tr>
-    </table>
+  <h3>📬 找到我 · Social QR</h3>
 
-  </div>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/social-xiaohongshu.png"
+         alt="小红书二维码"
+         width="155" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://space.bilibili.com/1339027047" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/social-bilibili.png"
+           alt="B站二维码"
+           width="155" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/social-wechat.png"
+         alt="微信二维码"
+         width="155" />
+  </p>
 
-  </td>
-</tr>
-</table>
+  <p>
+    <sub><b>小红书</b> · <code>RabbitRobot2025</code></sub>
+    &emsp;&emsp;&emsp;
+    <sub><b>B站</b> · <code>UID: 1339027047</code></sub>
+    &emsp;&emsp;&emsp;
+    <sub><b>微信</b> · 扫码添加</sub>
+  </p>
 
 </div>
 
@@ -274,20 +259,18 @@
 
 
 
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td>
-      <a href="https://www.bilibili.com/video/BV1zkYsziExS/#reply115048936642785">
-      <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/RabbitRobot1.0.jpg" width="700" > 
-      </a>
-  </tr>
-<td colspan="2" align="center">
-    <b style="color:#00ffff;">🚗 RabbitRobot初代小车 · 🔧 纯手搓 · ⭐ 纪念板</b>
+<!-- RabbitRobot Showcase -->
+<div align="center">
+  <a href="https://www.bilibili.com/video/BV1zkYsziExS/#reply115048936642785">
+    <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/RabbitRobot1.0.jpg"
+         alt="RabbitRobot初代小车"
+         width="86%" />
+  </a>
   <br />
-  <small style="color:#888;"><i>🤖 ROS 2 · 📡 多传感器融合 · 🧠 SLAM · ⚡ 自主导航</i></small>
-</td>
-</table>
+  <b>🚗 RabbitRobot初代小车 · 🔧 纯手搓 · ⭐ 纪念板</b>
+  <br />
+  <sub><i>🤖 ROS 2 · 📡 多传感器融合 · 🧠 SLAM · ⚡ 自主导航</i></sub>
+</div>
 
 <h2 align="center">🧠 技术栈 | Tech Stack</h2>
 <p align="center">
