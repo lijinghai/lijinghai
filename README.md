@@ -36,6 +36,17 @@
 </div>
 
 
+## About Me
+
+你好，我是 **lijinghai**，也就是 **理想主义的焊工日记**。我正在做 **RabbitRobot**：一个从 ROS 2 小车、多传感器融合到自动驾驶决策逐步长出来的开源机器人平台。
+
+- 🌟 **RabbitRobot 创始人**：偏工程落地，也喜欢把过程公开记录下来。
+- 🧠 **自动化控制工程研0**：2025.7 入坑，研究方向是端到端自动驾驶，尤其关注策略生成与优化。
+- 🛠️ **技术方向**：Web / 嵌入式 AI / ROS 2 / SLAM / 多传感器融合。
+- 🚗 **近期项目**：[RabbitRobot_V1.0](https://www.bilibili.com/video/BV1zkYsziExS/?spm_id_from=333.1387.list.card_archive.click)：ROS 2 小车平台，持续迭代中。
+- 🧭 **长期目标**：从全栈工程能力出发，走向自动驾驶决策工程师。
+- 🌱 **个人注脚**：校园称号“食堂干饭第一人”，ENFJ，一个有点念旧的技术宅。
+
 ## Find Me
 
 除了 GitHub，你也可以在这些平台找到 RabbitRobot 的公开更新和联系方式。
