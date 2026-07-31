@@ -36,27 +36,14 @@
 </div>
 
 
-<h1 align="center" style="color:#00eaff; font-size:40px; font-weight:800; text-shadow:0 0 15px #00ffff;">
-  👋 Hi, I'm lijinghai，勉勉强强 算个文科生吧。</span> 🏃
-  <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-</h1>
+## Find Me
 
-<div align="center">
-  <img src="./assets/images/profile-social-card.png"
-       alt="lijinghai GitHub profile social card"
-       width="92%" />
-  <br />
-  <sub>
-    <a href="https://www.bilibili.com/video/BV1zkYsziExS/?spm_id_from=333.1387.list.card_archive.click" target="_blank">RabbitRobot V1.0</a>
-    ·
-    <a href="https://space.bilibili.com/1339027047" target="_blank">B站空间</a>
-    ·
-    <a href="https://blog.csdn.net/Dorian15" target="_blank">CSDN 博客</a>
-    ·
-    <a href="mailto:lijinghailjh@163.com">邮箱</a>
-  </sub>
+除了 GitHub，你也可以在这些平台找到 RabbitRobot 的公开更新和联系方式。
 
-</div>
+| 小红书 | 微信 | B站 |
+| :---: | :---: | :---: |
+| <img src="./assets/images/find-me-xiaohongshu.jpg" alt="小红书：理想主义的焊工日记" width="300" /> | <img src="./assets/images/find-me-wechat.png" alt="微信：理想主义的焊工日记" width="300" /> | <a href="https://space.bilibili.com/1339027047" target="_blank"><img src="./assets/images/find-me-bilibili.jpg" alt="B站：理想主义的焊工日记" width="300" /></a> |
+| **理想主义的焊工日记**<br/>小红书号：`RabbitRobot2025` | **理想主义的焊工日记**<br/>扫码添加我为朋友 | **理想主义的焊工日记**<br/><a href="https://space.bilibili.com/1339027047" target="_blank">UID: 1339027047</a> |
 
 
 
