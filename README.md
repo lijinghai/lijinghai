@@ -1,233 +1,102 @@
-<h1 align="center" style="color:#00eaff; font-size:40px; font-weight:800; text-shadow:0 0 15px #00ffff;">
-  🦾 努力，让世界听到RabbitRobot的声音 🤖
-  <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-</h1>
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
-    <tr>
-      <td align="center" valign="middle" style="border: none; padding: 0 8px;">
-        <img width="150" src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/left.png" alt="left" />
-      </td>
-      <td align="center" valign="middle" style="border: none; padding: 0 8px;">
-        <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/RabbitRobot壁纸.jpg" width="200" alt="RabbitRobot" />
-      </td>
-      <td align="center" valign="middle" style="border: none; padding: 0 8px;">
-        <img width="150" src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/right.png" alt="right" />
-      </td>
-    </tr>
-  </table>
-</div>
+<h1 align="center">lijinghai · RabbitRobot</h1>
 
-  <!-- GitHub 奖杯🏆 -->
-   <!-- 
-  <div>
-    <img src="https://github-profile-trophy.vercel.app/?username=lijinghai&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
-    <br/>
-  </div>
-  -->
+<p align="center">
+  <strong>Control Engineering · Autonomous Driving · Robotics Systems</strong>
+</p>
 
-<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lijinghai/lijinghai/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lijinghai/lijinghai/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lijinghai/lijinghai/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <a href="https://lijinghai.github.io/" target="_blank">Homepage</a> ·
+  <a href="https://blog.csdn.net/Dorian15" target="_blank">CSDN Blog</a> ·
+  <a href="https://space.bilibili.com/1339027047" target="_blank">Bilibili</a> ·
+  <a href="mailto:lijinghailjh@163.com">Email</a>
+</p>
 
-</div>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Research-Autonomous%20Driving-2563EB?style=flat-square" alt="Autonomous Driving" />
+  <img src="https://img.shields.io/badge/Robotics-ROS%202-111827?style=flat-square" alt="ROS 2" />
+  <img src="https://img.shields.io/badge/Focus-Multi--Sensor%20Fusion-0F766E?style=flat-square" alt="Multi-Sensor Fusion" />
+  <img src="https://img.shields.io/badge/Language-Python%20%7C%20C%2B%2B-374151?style=flat-square" alt="Python and C++" />
+</p>
 
 ## About Me
 
 你好，我是 **lijinghai**。我正在做 **RabbitRobot**：一个从 ROS 2 小车、多传感器融合到自动驾驶决策逐步长出来的开源机器人平台。
 
-- 🌟 **RabbitRobot 创始人**：偏工程落地，也喜欢把过程公开记录下来。
-- 🧠 **自动化控制工程研0**：2025.7 入坑，研究方向是端到端自动驾驶，尤其关注策略生成与优化。
-- 🛠️ **技术方向**：Web / 嵌入式 AI / ROS 2 / SLAM / 多传感器融合。
-- 🚗 **近期项目**：[RabbitRobot_V1.0](https://www.bilibili.com/video/BV1zkYsziExS/?spm_id_from=333.1387.list.card_archive.click)：ROS 2 小车平台，持续迭代中。
-- 🧭 **长期目标**：从全栈工程能力出发，走向自动驾驶决策工程师。
-- 🌱 **个人注脚**：校园称号“食堂干饭第一人”，ENFJ，一个有点念旧的技术宅。
+我是一名控制工程方向的硕士研究生，研究兴趣集中在自动驾驶规划与决策、多传感器融合定位建图，以及具身智能系统的工程实现。我更关注能够跑在真实硬件上的系统闭环：从传感器、嵌入式驱动、机器人中间件，到算法验证、Web 控制与云端部署。
 
-<!-- ===== 🌌 霓虹夜光 Banner（科技感主视觉） ===== -->
-<div align="center" style="
-  padding: 48px 0;
-  background: radial-gradient(circle at 30% 40%, #00ffff22, #001020 80%);
-  border-radius: 20px;
-  box-shadow: 0 0 25px #00ffff55, inset 0 0 40px #00ffff22;
-  margin-bottom: 30px;
-">
+- **Current Focus:** 端到端自动驾驶策略生成与优化，ROS 2 机器人系统，多传感器融合 SLAM。
+- **Engineering Goal:** 以全栈工程能力支撑自动驾驶与机器人系统落地。
+- **Platform:** RabbitRobot 系列机器人平台，持续用于算法验证、系统集成和公开技术记录。
 
-  <h1 style="
-    color:#00eaff;
-    font-size:46px;
-    font-weight:800;
-    letter-spacing:1px;
-    text-shadow:0 0 20px #00ffff, 0 0 40px #0088ff;
-    margin-bottom: 10px;
-  ">
-    🤖 lijinghai · RabbitRobot Developer 
-  </h1>
-    
+## Research Interests
 
-  <p style="
-    color:#aafaff;
-    font-size:18px;
-    margin: 8px 0 6px 0;
-    text-shadow:0 0 10px #00ffffaa;
-  ">
-   🚗 端到端自动驾驶  · ⚙️ 嵌入式  · 🧠 人工智能   |   全栈工程师
-  </p>
+| Direction | Topics |
+| :--- | :--- |
+| Autonomous Driving | planning and decision-making, end-to-end policy generation, trajectory optimization |
+| SLAM & Localization | Cartographer, FAST-LIO2, Point-LIO, RTAB-Map, LiDAR-camera-IMU fusion |
+| Robotics Systems | ROS 2, Jetson deployment, sensor calibration, embedded control, web-based robot operation |
+| Embodied AI | LeRobot, VLA models, teleoperation data collection, Sim2Real manipulation |
+| Edge AI | YOLO deployment, model compression, Docker/Nginx based services, UWB multi-source fusion |
 
-  <p style="
-    color:#66ffff;
-    font-size:14px;
-    font-style: italic;
-    margin-top: 6px;
-    text-shadow:0 0 6px #00ffff88;
-  ">
-    “让算法跑在车轮上，让创意落在电路板上。”
-  </p>
+## Technical Profile
 
-</div>
+| Layer | Stack |
+| :--- | :--- |
+| Languages | Python, C++, Java, JavaScript / TypeScript |
+| Robotics | ROS 2, Autoware, UniAD, RTAB-Map, Cartographer, FAST-LIO2, Point-LIO |
+| Sensors | 3D/4D LiDAR, depth camera, IMU, UWB, multi-sensor calibration and fusion |
+| AI / Perception | YOLO series, BEV perception, HuggingFace, LeRobot, VLA |
+| Systems | Linux, Docker, Nginx, MySQL, Jetson, Vue, React, Spring Boot |
 
-<!-- ===== 🌠 署名区 ===== -->
-<h2 align="center" style="color:#00eaff; text-shadow:0 0 8px #00ffff88;">
-   <a href="https://lijinghai.github.io/" target="_blank" 
-       style="background:linear-gradient(90deg,#00ffff33,#00ccff66);
-              border:1px solid #00eaff55;
-              color:#00ffff;
-              padding:8px 16px;
-              border-radius:10px;
-              text-decoration:none;
-              font-weight:600;
-              box-shadow:0 0 12px #00ffff55;
-              transition:0.3s;">
-      💫 RabbitRobot 官方主页 💫
-     <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-     https://lijinghai.github.io/
-    </a>
-</h2>
-
-
-
-
-&emsp;我是一名控制工程专业的硕士研究生，专注于自动驾驶规划与决策方向。具备扎实的计算机与控制理论基础，以及从硬件设计到云端部署的全栈式系统开发经验。目前担任校实验室总负责人，带领团队多次获得国家级奖项（含多项国家一等奖与二等奖），在技术攻关与团队管理方面均有丰富的实战积累。
-
-&emsp;我的研究聚焦于自动驾驶中的感知、定位与控制，并在自研的 RabbitRobot系列机器人平台上完成了从算法验证到系统集成的完整闭环。熟练掌握 ROS 2 生态及 Autoware、UniAD等自动驾驶软件平台，具备基于 Cartographer、FAST-LIO2、Point-LIO、RTAB-Map 等算法构建多传感器融合 SLAM 系统的能力，涵盖3D/4D 激光雷达（Velodyne VLP-16、Livox MID360、Unitree L1 等）、深度相机与 IMU 的联合标定与融合建图。此外，在 BEV视觉融合感知与多传感器协同环境理解方面也有深入实践，持续跟进前沿感知技术。
-
-&emsp; 我精通 Python 与 C++，在目标检测（YOLO 系列）与深度学习模型的边缘端部署优化方面有丰富经验，同时对 UWB定位与多源信息融合有深入理解。在具身智能方向，基于 HuggingFace 的 LeRobot框架实现了视觉-语言-动作（VLA）模型的机械臂自主抓取系统，打通了从遥操作数据采集、训练到 Sim2Real等后端技术栈，能够在 Docker、Nginx 环境下完成从嵌入式驱动到云原生架构的完整系统搭建与运维。
-
-&emsp;性格上，我属于 ENFJ 型人格——敏感细腻、富有洞察力，兼具理性思维与人文关怀。在科研与团队协作中，我注重沟通与共情，善于发现团队成员的优势并激发其潜力，追求在技术突破与人的成长之间找到平衡。
-
-&emsp; 未来，我希望继续深耕自动驾驶与具身智能领域，探索多传感器融合与智能决策算法的深度结合，推动智能机器人在真实场景中的落地应用。同时，始终保持对技术与人文的双重热忱，成为一名兼具工程深度与人文温度的复合型研究者。
-
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
-
-
-  <!-- dynamic typing effect 动态打字效果 -->
-   <div>
-    <h1 align="center">
-      <a href="https://huggingface.co/lijinghai">
-       <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/救赎之道.jpg" > 
-      </a>
-    </h1>
-     <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-   </div>
-
-</td></tr>
-<tr><td>
-
-<tr><td>
-
-</td></tr>
-
-</table>
-
-
-<h2 align="center">🌟 代表作品</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/lijinghai/WarmSearch">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch&theme=vue-dark&border_color=41b883&title_color=41b883&icon_color=41b883" alt="WarmSearch" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/lijinghai/WarmSearch-uniapp">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lijinghai&repo=WarmSearch-uniapp&theme=vue-dark&border_color=41b883&title_color=41b883&icon_color=41b883" alt="WarmSearch-uniapp" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <code><b>SpringBoot + Vue + UniApp 校园失物招领系统</b></code>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br />
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/lijinghai/RabbitRobot-D435-L1lidar-RTABMap-ROS2">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lijinghai&repo=RabbitRobot-D435-L1lidar-RTABMap-ROS2&theme=vue-dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" alt="RabbitRobot-1" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/lijinghai/ljh_robot_ros2_web">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lijinghai&repo=ljh_robot_ros2_web&theme=vue-dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" alt="RabbitRobot-2" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <code><b>RabbitRobot 开源自动驾驶平台 🧠</b></code><br />
-        <small><i>LiDAR · RTAB-Map · Jetson · ROS 2 | 科研级开源项目</i></small>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
-<h2 align="center">📊 活跃统计 | GitHub Insights</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lijinghai&theme=react-dark&bg_color=0D1117&color=58A6FF&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,ros,docker,linux,nginx,mysql,vue,react,spring,git,qt,threejs" alt="technical stack" />
 </p>
 
+## Selected Projects
 
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+### RabbitRobot Open Autonomous Platform
 
+RabbitRobot 是我当前最核心的工程平台，用于自动驾驶、SLAM、多传感器融合和 ROS 2 系统集成实验。
 
+- **Repositories:** [RabbitRobot-D435-L1lidar-RTABMap-ROS2](https://github.com/lijinghai/RabbitRobot-D435-L1lidar-RTABMap-ROS2), [ljh_robot_ros2_web](https://github.com/lijinghai/ljh_robot_ros2_web)
+- **Keywords:** ROS 2, LiDAR, RTAB-Map, Jetson, depth camera, web control, autonomous navigation
+- **Engineering Value:** 从硬件小车、传感器接入、SLAM 建图到 Web 控制界面的完整系统闭环
+- **Demo:** [RabbitRobot_V1.0 on Bilibili](https://www.bilibili.com/video/BV1zkYsziExS/?spm_id_from=333.1387.list.card_archive.click)
 
-<!-- RabbitRobot Showcase -->
 <div align="center">
   <a href="https://www.bilibili.com/video/BV1zkYsziExS/#reply115048936642785">
-    <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/RabbitRobot1.0.jpg"
-         alt="RabbitRobot初代小车"
-         width="86%" />
+    <img src="./assets/images/RabbitRobot1.0.jpg" alt="RabbitRobot初代小车" width="78%" />
   </a>
   <br />
-  <b>🚗 RabbitRobot初代小车 · 🔧 纯手搓 · ⭐ 纪念板</b>
-  <br />
-  <sub><i>🤖 ROS 2 · 📡 多传感器融合 · 🧠 SLAM · ⚡ 自主导航</i></sub>
+  <sub>RabbitRobot V1.0 · ROS 2 · multi-sensor fusion · SLAM · autonomous navigation</sub>
 </div>
 
-<h2 align="center">🧠 技术栈 | Tech Stack</h2>
+### WarmSearch Campus Lost-and-Found System
+
+WarmSearch 是一个面向校园场景的失物招领系统，覆盖后端服务、Web 前端与 UniApp 移动端。
+
+- **Repositories:** [WarmSearch](https://github.com/lijinghai/WarmSearch), [WarmSearch-uniapp](https://github.com/lijinghai/WarmSearch-uniapp)
+- **Keywords:** Spring Boot, Vue, UniApp, MySQL, campus service system
+- **Engineering Value:** 从业务建模、接口设计到多端交互的完整应用系统实践
+
+### Embodied AI Manipulation
+
+围绕 LeRobot 与 VLA 模型搭建机械臂自主抓取实验链路，关注遥操作数据采集、训练、推理部署和 Sim2Real 迁移。
+
+- **Keywords:** LeRobot, VLA, teleoperation, robot arm grasping, Sim2Real
+- **Engineering Value:** 将视觉-语言-动作模型接入真实机器人控制流程，验证具身智能系统的端到端落地能力
+
+## Engineering Experience
+
+- 控制工程专业硕士研究生，长期关注自动驾驶、机器人系统与具身智能。
+- 具备从硬件设计、嵌入式驱动、算法验证到云端部署的全栈式系统开发经验。
+- 担任校实验室总负责人，参与团队技术攻关与项目管理，带领团队多次获得国家级奖项。
+- 持续维护 RabbitRobot 技术记录与开源项目，希望把研究问题转化为可复现、可运行、可迭代的工程系统。
+
+## GitHub Activity
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" width="250" height="250" />
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,ros,qt,docker,vue,react,spring,linux,nginx,mysql,git,threejs" />
-</p>
-
-
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
-
-<p align="center"> 
-  <img src="https://count.getloli.com/get/@:lijinghai?theme=gelbooru-h" alt="这是访问量计数，如果看不到请刷新" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lijinghai&theme=github-compact&hide_border=true" alt="GitHub activity graph" />
 </p>
 
 ## Find Me
@@ -237,4 +106,4 @@
 | 小红书 | 微信 | B站 |
 | :---: | :---: | :---: |
 | <img src="./assets/images/find-me-xiaohongshu.jpg" alt="小红书：理想主义的焊工日记" width="300" /> | <img src="./assets/images/find-me-wechat.png" alt="微信：理想主义的焊工日记" width="300" /> | <a href="https://space.bilibili.com/1339027047" target="_blank"><img src="./assets/images/find-me-bilibili.jpg" alt="B站：理想主义的焊工日记" width="300" /></a> |
-| **理想主义的焊工日记**<br/>小红书号：`RabbitRobot2025` | **理想主义的焊工日记**<br/>扫码添加我为朋友 | **理想主义的焊工日记**<br/><a href="https://space.bilibili.com/1339027047" target="_blank">UID: 1339027047</a> |
+| **理想主义的焊工日记**<br />小红书号：`RabbitRobot2025` | **理想主义的焊工日记**<br />扫码添加我为朋友 | **理想主义的焊工日记**<br /><a href="https://space.bilibili.com/1339027047" target="_blank">UID: 1339027047</a> |
