@@ -252,11 +252,6 @@
       <a href="https://www.bilibili.com/video/BV1zkYsziExS/#reply115048936642785">
       <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/RabbitRobot1.0.jpg" width="700" > 
       </a>
-    <td>  
- 
-
-[![Star History Chart](https://api.star-history.com/svg?repos=lijinghai/WarmSearch,lijinghai/WarmSearch-uniapp,lijinghai/WarmSearch-PC,lijinghai/WarmSearch-Web&type=Timeline)](https://www.star-history.com/#lijinghai/WarmSearch&lijinghai/WarmSearch-uniapp&lijinghai/WarmSearch-PC&lijinghai/WarmSearch-Web&Timeline)
-    </td>
   </tr>
 <td colspan="2" align="center">
     <b style="color:#00ffff;">🚗 RabbitRobot初代小车 · 🔧 纯手搓 · ⭐ 纪念板</b>
