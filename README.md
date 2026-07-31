@@ -42,61 +42,19 @@
 </h1>
 
 <div align="center">
-
-  <h2>🙆‍♀️ 你好！(。・∀・)ノ 这里是我的 GitHub 个人主页</h2>
-
-  <p>
-    <b>🌟 RabbitRobot 创始人</b> ·
-    <b>🧠 自动化控制工程研0</b> ·
-    <b>💻 端到端自动驾驶</b>
-  </p>
-
-  <p>
-    Web / 嵌入式 AI 全栈工程师 → 自动驾驶决策工程师
-  </p>
-
-  <p>
-    <a href="https://www.bilibili.com/video/BV1zkYsziExS/?spm_id_from=333.1387.list.card_archive.click" target="_blank">
-      <img alt="RabbitRobot V1.0" src="https://img.shields.io/badge/RabbitRobot_V1.0-ROS2%20%E5%B0%8F%E8%BD%A6-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" />
-    </a>
-    <a href="https://blog.csdn.net/Dorian15" target="_blank">
-      <img alt="CSDN Blog" src="https://img.shields.io/badge/CSDN-%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-FC5531?style=for-the-badge&logo=blogger&logoColor=white" />
-    </a>
-    <a href="mailto:lijinghailjh@163.com">
-      <img alt="Email" src="https://img.shields.io/badge/Email-lijinghailjh%40163.com-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-  </p>
-
-  <p>
-    💕 <b>商务合作 / 项目交流：</b> 小红书、B站、微信都可以找到我<br/>
-    🌱 校园称号：食堂干饭第一人 🍱 · 🧖‍♂️ ENFJ，一个有点念旧的技术宅。
-  </p>
-
-  <h3>📬 找到我 · Social QR</h3>
-
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/social-xiaohongshu.png"
-         alt="小红书二维码"
-         width="155" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://space.bilibili.com/1339027047" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/social-bilibili.png"
-           alt="B站二维码"
-           width="155" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/social-wechat.png"
-         alt="微信二维码"
-         width="155" />
-  </p>
-
-  <p>
-    <sub><b>小红书</b> · <code>RabbitRobot2025</code></sub>
-    &emsp;&emsp;&emsp;
-    <sub><b>B站</b> · <code>UID: 1339027047</code></sub>
-    &emsp;&emsp;&emsp;
-    <sub><b>微信</b> · 扫码添加</sub>
-  </p>
+  <img src="./assets/images/profile-social-card.png"
+       alt="lijinghai GitHub profile social card"
+       width="92%" />
+  <br />
+  <sub>
+    <a href="https://www.bilibili.com/video/BV1zkYsziExS/?spm_id_from=333.1387.list.card_archive.click" target="_blank">RabbitRobot V1.0</a>
+    ·
+    <a href="https://space.bilibili.com/1339027047" target="_blank">B站空间</a>
+    ·
+    <a href="https://blog.csdn.net/Dorian15" target="_blank">CSDN 博客</a>
+    ·
+    <a href="mailto:lijinghailjh@163.com">邮箱</a>
+  </sub>
 
 </div>
 
