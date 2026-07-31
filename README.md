@@ -1,5 +1,23 @@
+<h1 align="center">
+  🦾 努力，让世界听到RabbitRobot的声音 🤖
+  <br />
+  <img width="100%" src="./assets/images/hr.gif" alt="color divider" />
+</h1>
+
 <div align="center">
-  <img src="./assets/images/rabbitrobot-vln-hero.png" alt="RabbitRobot2025 · VLN x Embodied AI x ROS 2 x Robot Web Tools" width="100%" />
+  <table width="68%">
+    <tr>
+      <td align="center" valign="middle">
+        <img src="./assets/images/left.png" width="150" alt="left wing" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="./assets/images/RabbitRobot壁纸.jpg" width="200" alt="RabbitRobot logo" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="./assets/images/right.png" width="150" alt="right wing" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <picture>
