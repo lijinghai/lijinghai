@@ -38,7 +38,7 @@
 
 ## About Me
 
-你好，我是 **lijinghai**，也就是 **理想主义的焊工日记**。我正在做 **RabbitRobot**：一个从 ROS 2 小车、多传感器融合到自动驾驶决策逐步长出来的开源机器人平台。
+你好，我是 **lijinghai**。我正在做 **RabbitRobot**：一个从 ROS 2 小车、多传感器融合到自动驾驶决策逐步长出来的开源机器人平台。
 
 - 🌟 **RabbitRobot 创始人**：偏工程落地，也喜欢把过程公开记录下来。
 - 🧠 **自动化控制工程研0**：2025.7 入坑，研究方向是端到端自动驾驶，尤其关注策略生成与优化。
@@ -46,17 +46,6 @@
 - 🚗 **近期项目**：[RabbitRobot_V1.0](https://www.bilibili.com/video/BV1zkYsziExS/?spm_id_from=333.1387.list.card_archive.click)：ROS 2 小车平台，持续迭代中。
 - 🧭 **长期目标**：从全栈工程能力出发，走向自动驾驶决策工程师。
 - 🌱 **个人注脚**：校园称号“食堂干饭第一人”，ENFJ，一个有点念旧的技术宅。
-
-## Find Me
-
-除了 GitHub，你也可以在这些平台找到 RabbitRobot 的公开更新和联系方式。
-
-| 小红书 | 微信 | B站 |
-| :---: | :---: | :---: |
-| <img src="./assets/images/find-me-xiaohongshu.jpg" alt="小红书：理想主义的焊工日记" width="300" /> | <img src="./assets/images/find-me-wechat.png" alt="微信：理想主义的焊工日记" width="300" /> | <a href="https://space.bilibili.com/1339027047" target="_blank"><img src="./assets/images/find-me-bilibili.jpg" alt="B站：理想主义的焊工日记" width="300" /></a> |
-| **理想主义的焊工日记**<br/>小红书号：`RabbitRobot2025` | **理想主义的焊工日记**<br/>扫码添加我为朋友 | **理想主义的焊工日记**<br/><a href="https://space.bilibili.com/1339027047" target="_blank">UID: 1339027047</a> |
-
-
 
 <!-- ===== 🌌 霓虹夜光 Banner（科技感主视觉） ===== -->
 <div align="center" style="
@@ -240,3 +229,12 @@
 <p align="center"> 
   <img src="https://count.getloli.com/get/@:lijinghai?theme=gelbooru-h" alt="这是访问量计数，如果看不到请刷新" />
 </p>
+
+## Find Me
+
+除了 GitHub，你也可以在这些平台找到 RabbitRobot 的公开更新和联系方式。
+
+| 小红书 | 微信 | B站 |
+| :---: | :---: | :---: |
+| <img src="./assets/images/find-me-xiaohongshu.jpg" alt="小红书：理想主义的焊工日记" width="300" /> | <img src="./assets/images/find-me-wechat.png" alt="微信：理想主义的焊工日记" width="300" /> | <a href="https://space.bilibili.com/1339027047" target="_blank"><img src="./assets/images/find-me-bilibili.jpg" alt="B站：理想主义的焊工日记" width="300" /></a> |
+| **理想主义的焊工日记**<br/>小红书号：`RabbitRobot2025` | **理想主义的焊工日记**<br/>扫码添加我为朋友 | **理想主义的焊工日记**<br/><a href="https://space.bilibili.com/1339027047" target="_blank">UID: 1339027047</a> |
