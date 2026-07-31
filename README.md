@@ -57,7 +57,10 @@
   - 💻 研究方向：端到端自动驾驶（策略生成与优化）
   - 🛠️ 目标：Web、嵌入式 AI 全栈工程师 → 自动驾驶决策工程师   
   - 🚗 最近在折腾 ROS2 小车 —— <a href="https://www.bilibili.com/video/BV1zkYsziExS/?spm_id_from=333.1387.list.card_archive.click" target="_blank" style="color:#00ffff;"><i>RabbitRobot_V1.0</i>（2025.9）</a>
-  - 💕 <b style="color:#e91e63;">商务合作 / 项目交流（WX）：</b> <code>RabbitRobot2025</code>
+  - 💕 <b style="color:#e91e63;">商务合作 / 项目交流：</b> 小红书、B站、微信都可以找到我
+  - 📕 <b>小红书号：</b> <code>RabbitRobot2025</code>
+  - 📺 <b>B站：</b> <a href="https://space.bilibili.com/1339027047" target="_blank" style="color:#00ffff;"><code>UID: 1339027047</code></a>
+  - 💬 <b>微信：</b> 扫码添加好友
   - 🤔 <a href="https://blog.csdn.net/Dorian15" target="_blank" style="color:#00ffff;">lijinghai | 个人博客</a>
   - 🌱 校园称号：食堂干饭第一人 🍱  
   - 💌 <b>邮箱：</b> lijinghailjh@163.com  
@@ -72,11 +75,37 @@
               background:radial-gradient(circle at 30% 30%, #0ff3, #000c);
               box-shadow:0 0 25px #00ffff55, 0 0 60px #00ccff22;
               border:1px solid #00e5ff33;">
-    <h3 style="margin-top:0; font-size:16px; color:#00ffff;">📱 微信扫码 · 技术交流</h3>
-    <img src="https://cdn.jsdelivr.net/gh/lijinghai/cdn/img/me/微信二维码.jpg" 
-         alt="WeChat QR"
-         width="240" height="240"
-         style="border-radius:14px; border:2px solid #00ffff88; box-shadow:0 0 20px #00ffff55;"/>
+    <h3 style="margin-top:0; font-size:16px; color:#00ffff;">📬 找到我 · Social QR</h3>
+    <table border="0" cellspacing="0" cellpadding="8" style="border-collapse:collapse; border:none;">
+      <tr>
+        <td align="center" style="border:none;">
+          <b>小红书</b><br/>
+          <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/social-xiaohongshu.png"
+               alt="小红书二维码"
+               width="125" height="125"
+               style="border-radius:12px; border:2px solid #ff5a7a88; box-shadow:0 0 16px #ff5a7a55;"/><br/>
+          <code>RabbitRobot2025</code>
+        </td>
+        <td align="center" style="border:none;">
+          <b>B站</b><br/>
+          <a href="https://space.bilibili.com/1339027047" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/social-bilibili.png"
+                 alt="B站二维码"
+                 width="125" height="125"
+                 style="border-radius:12px; border:2px solid #00a1d688; box-shadow:0 0 16px #00a1d655;"/>
+          </a><br/>
+          <code>UID: 1339027047</code>
+        </td>
+        <td align="center" style="border:none;">
+          <b>微信</b><br/>
+          <img src="https://cdn.jsdelivr.net/gh/lijinghai/lijinghai/assets/images/social-wechat.png"
+               alt="微信二维码"
+               width="125" height="125"
+               style="border-radius:12px; border:2px solid #07c16088; box-shadow:0 0 16px #07c16055;"/><br/>
+          <code>扫码添加</code>
+        </td>
+      </tr>
+    </table>
 
   </div>
 
