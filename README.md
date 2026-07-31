@@ -1,3 +1,19 @@
+<h1 align="center">🦾 努力，让世界听到 RabbitRobot 的声音 🤖</h1>
+
+<div align="center">
+  <img src="./assets/images/left.png" width="150" alt="left wing" />
+  <img src="./assets/images/RabbitRobot壁纸.jpg" width="200" alt="RabbitRobot logo" />
+  <img src="./assets/images/right.png" width="150" alt="right wing" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
 <h1 align="center">lijinghai · RabbitRobot</h1>
 
 <p align="center">
