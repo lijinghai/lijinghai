@@ -48,6 +48,22 @@
   <img src="https://img.shields.io/badge/Direction-VLN%20%2F%20Embodied%20AI-7C3AED?style=flat-square" alt="VLN and Embodied AI" />
 </p>
 
+<h1 align="center">RabbitRobot 全系列主页</h1>
+
+<p align="center">
+  这是我长期迭代的机器人项目公开入口：从 ROS 2 AMR 真车、多传感器融合 SLAM、Web 控制台，到 VLN / 具身智能导航探索。<br />
+  项目路线、系统架构、实验图片、视频记录和技术文档都会持续整理在这里。
+</p>
+
+<p align="center">
+  <a href="https://lijinghai.github.io/RabbitRobot/" target="_blank">
+    <img src="https://img.shields.io/badge/%E8%BF%9B%E5%85%A5-RabbitRobot%20%E4%B8%BB%E9%A1%B5-0F766E?style=for-the-badge" alt="进入 RabbitRobot 主页" />
+  </a>
+  <br />
+  <strong>访问地址：</strong>
+  <a href="https://lijinghai.github.io/RabbitRobot/" target="_blank">https://lijinghai.github.io/RabbitRobot/</a>
+</p>
+
 ## 关于我
 
 你好，我是 **lijinghai**。我正在做 **RabbitRobot**：一个从 ROS 2 小车、多传感器融合到自动驾驶决策逐步长出来的开源机器人平台。
