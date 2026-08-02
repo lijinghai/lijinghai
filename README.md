@@ -35,7 +35,7 @@
 </p>
 
 <p align="center">
-  <a href="https://lijinghai.github.io/" target="_blank">个人主页 / 项目文档</a> ·
+  <a href="https://lijinghai.github.io/RabbitRobot/" target="_blank">个人主页 / 项目文档</a> ·
   <a href="https://blog.csdn.net/Dorian15" target="_blank">CSDN 技术博客</a> ·
   <a href="https://space.bilibili.com/1339027047" target="_blank">B站视频记录</a> ·
   <a href="mailto:lijinghailjh@163.com">Email</a>
@@ -56,7 +56,7 @@
 
 - **当前主线：** RabbitRobot AMR2 平台、Vision-Language Navigation、端到端局部规划与场景理解。
 - **工程目标：** 从底盘和传感器接入开始，打通建图、导航、控制、部署和可视化记录。
-- **公开入口：** 更完整的项目路线、图文资料和长期更新放在 [RabbitRobot 全系列主页](https://lijinghai.github.io/)。
+- **公开入口：** 更完整的项目路线、图文资料和长期更新放在 [RabbitRobot 全系列主页](https://lijinghai.github.io/RabbitRobot/)。
 
 ## 研究方向
 
@@ -84,7 +84,7 @@ RabbitRobot 不是单一小车 demo，而是一条围绕真实机器人系统逐
 | **RabbitRobot_ElderBuddy** | 室内陪伴机器人概念验证 | Indoor Service, HRI, companion robot |
 | **RabbitRobot_Web** | 项目展示与技术文档入口 | 作品集, 技术记录, 图文资料 |
 
-更详细的版本路线、系统架构图和实验记录请看：**[RabbitRobot 全系列主页](https://lijinghai.github.io/)**。
+更详细的版本路线、系统架构图和实验记录请看：**[RabbitRobot 全系列主页](https://lijinghai.github.io/RabbitRobot/)**。
 
 ### RabbitRobot AMR2 / ROS 2 真车平台
 
