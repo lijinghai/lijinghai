@@ -35,8 +35,7 @@
 </p>
 
 <p align="center">
-  <a href="https://lijinghai.github.io/" target="_blank">个人主页</a> ·
-  <a href="https://lijinghai.github.io/RabbitRobot/" target="_blank">RabbitRobot 项目文档</a> ·
+  <a href="https://lijinghai.github.io/RabbitRobot/" target="_blank">个人主页 / 项目文档</a> ·
   <a href="https://blog.csdn.net/Dorian15" target="_blank">CSDN 技术博客</a> ·
   <a href="https://space.bilibili.com/1339027047" target="_blank">B站视频记录</a> ·
   <a href="mailto:lijinghailjh@163.com">Email</a>
@@ -105,20 +104,20 @@ RabbitRobot 不是单一小车 demo，而是一条围绕真实机器人系统逐
 
 ### RabbitRobot AMR2 / ROS 2 真车平台
 
-AMR2 是我现在最核心的真实 AMR 工程平台：用真实 PCD 地图、真实 SolidWorks 底盘、ROS 2 覆盖路径规划、Web 3D 控制台、Nav2 dry-run 和 DS20270C 轮毂底盘安全链来验证机器人系统闭环。
+目前最核心的工程平台，用于验证 ROS 2 导航、多传感器融合 SLAM、Web 控制和局部规划算法。
+
+- **仓库：** [RabbitRobot-D435-L1lidar-RTABMap-ROS2](https://github.com/lijinghai/RabbitRobot-D435-L1lidar-RTABMap-ROS2), [ljh_robot_ros2_web](https://github.com/lijinghai/ljh_robot_ros2_web)
+- **技术：** ROS 2, Nav2, LiDAR, RTAB-Map, Jetson, depth camera, Web console, autonomous navigation
+- **经历：** 从机械结构、传感器接入、SLAM 建图到控制界面，尽量形成可运行、可调试、可复盘的完整闭环。
+- **演示：** [RabbitRobot_V1.0 on Bilibili](https://www.bilibili.com/video/BV1zkYsziExS/?spm_id_from=333.1387.list.card_archive.click)
 
 <div align="center">
-  <a href="https://lijinghai.github.io/RabbitRobot/projects/rabbitrobot-amr2.html" target="_blank">
-    <img src="https://lijinghai.github.io/RabbitRobot/images/rabbitrobot/amr2_coverage_3d_panel.png" alt="RabbitRobot AMR2 Web 3D coverage console" width="86%" />
+  <a href="https://www.bilibili.com/video/BV1zkYsziExS/#reply115048936642785">
+    <img src="./assets/images/RabbitRobot1.0.jpg" alt="RabbitRobot初代小车" width="78%" />
   </a>
   <br />
-  <sub>PCD map · SolidWorks STL · Coverage planner · Nav2 · DS20270C · Web 3D Console</sub>
+  <sub>RabbitRobot V1.0 · ROS 2 · multi-sensor fusion · SLAM · autonomous navigation</sub>
 </div>
-
-- **工程链路：** `PCD map -> Coverage planner -> RViz/Web -> Nav2 dry-run -> velocity_smoother -> collision_monitor -> DS20270C`。
-- **关键证据：** 真实 CAD mesh 进入 RViz/Web，`0.486 x 0.450 m` footprint 参与覆盖与避障约束，Web 3D 面板同步 `/Odometry`。
-- **验证方式：** 6 包 ROS 2 构建、Web 浏览器检查、RViz smoke、覆盖服务回归和 DS20270C dry-run 自检。
-- **详细页面：** [RabbitRobot_AMR2 工程展示](https://lijinghai.github.io/RabbitRobot/projects/rabbitrobot-amr2.html)。
 
 ### VLN / 端到端局部规划探索
 
