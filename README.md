@@ -31,7 +31,7 @@
 <h1 align="center">lijinghai · RabbitRobot</h1>
 
 <p align="center">
-  <strong>控制工程 · 自动驾驶 · ROS 2 机器人系统 · 具身智能</strong>
+  <strong>控制工程 · 自动驾驶 · ROS 2 机器人系统 · 具身智能VLN</strong>
 </p>
 
 <p align="center">
